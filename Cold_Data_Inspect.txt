@@ -1,0 +1,1164 @@
+Column names: , User, Level1_Baseline_RT, Level1_Baseline_TTL, Level2_Baseline_RT, Level2_Baseline_TTL, Level3_Baseline_RT, Level3_Baseline_TTL, Level4_Baseline_RT, Level4_Baseline_TTL, Inhibition_1_RI_RT, Inhibition_1_RI_False_Alarms, Inhibition_2_RI_RT, Inhibition_2_RI_False_Alarms, Inhibition_3_RI_RT, Inhibition_3_RI_False_Alarms, Inhibition_4_RI_RT, Inhibition_4_RI_False_Alarms, Inhibition_5a_RI_RT, Inhibition_5a_RI_False_Alarms, Inhibition_6a_RI_RT, Inhibition_6a_RI_False_Alarms, Inhibition_7a_RI_RT, Inhibition_7a_RI_False_Alarms, Inhibition_8a_RI_RT, Inhibition_8a_RI_False_Alarms, Shifting_1_Shifting_Congruent_RT, Shifting_1_Shifting_Congruent_Accuracy, Shifting_1_Shifting_Congruent_FA, Shifting_1_Shifting_Incongruent_RT, Shifting_1_Shifting_Incongruent_Accuracy, Shifting_1_Shifting_Incongruent_FA, Shifting_1_Total_Errors, Shifting_2_Shifting_Congruent_RT, Shifting_2_Shifting_Congruent_Accuracy, Shifting_2_Shifting_Congruent_FA, Shifting_2_Shifting_Incongruent_RT, Shifting_2_Shifting_Incongruent_Accuracy, Shifting_2_Shifting_Incongruent_FA, Shifting_2_Total_Errors, Shifting_3_Shifting_Congruent_RT, Shifting_3_Shifting_Congruent_Accuracy, Shifting_3_Shifting_Congruent_FA, Shifting_3_Shifting_Incongruent_RT, Shifting_3_Shifting_Incongruent_Accuracy, Shifting_3_Shifting_Incongruent_FA, Shifting_3_Total_Errors, Shifting_4_Shifting_Congruent_RT, Shifting_4_Shifting_Congruent_Accuracy, Shifting_4_Shifting_Congruent_FA, Shifting_4_Shifting_Incongruent_RT, Shifting_4_Shifting_Incongruent_Accuracy, Shifting_4_Shifting_Incongruent_FA, Shifting_4_Total_Errors, Shifting_5_Shifting_Congruent_RT, Shifting_5_Shifting_Congruent_Accuracy, Shifting_5_Shifting_Congruent_FA, Shifting_5_Shifting_Incongruent_RT, Shifting_5_Shifting_Incongruent_Accuracy, Shifting_5_Shifting_Incongruent_FA, Shifting_5_Total_Errors, Shifting_6_Shifting_Congruent_RT, Shifting_6_Shifting_Congruent_Accuracy, Shifting_6_Shifting_Congruent_FA, Shifting_6_Shifting_Incongruent_RT, Shifting_6_Shifting_Incongruent_Accuracy, Shifting_6_Shifting_Incongruent_FA, Shifting_6_Total_Errors, Shifting_7_Shifting_Congruent_RT, Shifting_7_Shifting_Congruent_Accuracy, Shifting_7_Shifting_Congruent_FA, Shifting_7_Shifting_Incongruent_RT, Shifting_7_Shifting_Incongruent_Accuracy, Shifting_7_Shifting_Incongruent_FA, Shifting_7_Total_Errors, Shifting_8_Shifting_Congruent_RT, Shifting_8_Shifting_Congruent_Accuracy, Shifting_8_Shifting_Congruent_FA, Shifting_8_Shifting_Incongruent_RT, Shifting_8_Shifting_Incongruent_Accuracy, Shifting_8_Shifting_Incongruent_FA, Shifting_8_Total_Errors, Inversion_1_CogInhib_Incongruent_Accuracy, Inversion_1_CogInhib_Incongruent_RT, Inversion_1_Conflict_Resolution_Accuracy, Inversion_1_Conflict_Resolution_RT, Inversion_2_CogInhib_Incongruent_Accuracy, Inversion_2_CogInhib_Incongruent_RT, Inversion_2_Conflict_Resolution_Accuracy, Inversion_2_Conflict_Resolution_RT, Inversion_3_CogInhib_Incongruent_Accuracy, Inversion_3_CogInhib_Incongruent_RT, Inversion_3_Conflict_Resolution_Accuracy, Inversion_3_Conflict_Resolution_RT, Inversion_4_CogInhib_Incongruent_Accuracy, Inversion_4_CogInhib_Incongruent_RT, Inversion_4_Conflict_Resolution_Accuracy, Inversion_4_Conflict_Resolution_RT, Inversion_Alt_1_CogInhib_Incongruent_Accuracy, Inversion_Alt_1_CogInhib_Incongruent_RT, Inversion_Alt_1_Conflict_Resolution_Accuracy, Inversion_Alt_1_Conflict_Resolution_RT, Inversion_5_CogInhib_Incongruent_Accuracy, Inversion_5_CogInhib_Incongruent_RT, Inversion_5_Conflict_Resolution_Accuracy, Inversion_5_Conflict_Resolution_RT, Inversion_6_CogInhib_Incongruent_Accuracy, Inversion_6_CogInhib_Incongruent_RT, Inversion_6_Conflict_Resolution_Accuracy, Inversion_6_Conflict_Resolution_RT, Inversion_7_CogInhib_Incongruent_Accuracy, Inversion_7_CogInhib_Incongruent_RT, Inversion_7_Conflict_Resolution_Accuracy, Inversion_7_Conflict_Resolution_RT, Inversion_8_CogInhib_Incongruent_Accuracy, Inversion_8_CogInhib_Incongruent_RT, Inversion_8_Conflict_Resolution_Accuracy, Inversion_8_Conflict_Resolution_RT, Memory_a_WM_Hits, Memory_a_WM_FA, Memory_a_WM_PR, Memory_a_Min_moves_exit, Memory_a_n_Attempts, Memory_a_WM_Return_Efficiency, Memory_b_WM_Hits, Memory_b_WM_FA, Memory_b_WM_PR, Memory_b_Min_moves_exit, Memory_b_n_Attempts, Memory_b_WM_Return_Efficiency, Memory_c_WM_Hits, Memory_c_WM_FA, Memory_c_WM_PR, Memory_c_Min_moves_exit, Memory_c_n_Attempts, Memory_c_WM_Return_Efficiency, Memory_d_WM_Hits, Memory_d_WM_FA, Memory_d_WM_PR, Memory_d_Min_moves_exit, Memory_d_n_Attempts, Memory_d_WM_Return_Efficiency, Memory_e_WM_Hits, Memory_e_WM_FA, Memory_e_WM_PR, Memory_e_Min_moves_exit, Memory_e_n_Attempts, Memory_e_WM_Return_Efficiency, Memory_f_WM_Hits, Memory_f_WM_FA, Memory_f_WM_PR, Memory_f_Min_moves_exit, Memory_f_n_Attempts, Memory_f_WM_Return_Efficiency, Memory_fg_WM_Hits, Memory_fg_WM_FA, Memory_fg_WM_PR, Memory_fg_Min_moves_exit, Memory_fg_n_Attempts, Memory_fg_WM_Return_Efficiency, Memory_g_WM_Hits, Memory_g_WM_FA, Memory_g_WM_PR, Memory_g_Min_moves_exit, Memory_g_n_Attempts, Memory_g_WM_Return_Efficiency
+
+Column name: 
+	Number of values: 122
+	Average: 75.64
+	Number of missing values: 0
+	Maximum value: 154.00
+	Minimum value: 0.00
+
+Column name: User
+	Number of values: 122
+	Average: 476.64
+	Number of missing values: 0
+	Maximum value: 555.00
+	Minimum value: 401.00
+
+Column name: Level1_Baseline_RT
+	Number of values: 122
+	Average: 0.96
+	Number of missing values: 0
+	Maximum value: 6.72
+	Minimum value: 0.23
+
+Column name: Level1_Baseline_TTL
+	Number of values: 122
+	Average: 2.01
+	Number of missing values: 0
+	Maximum value: 13.44
+	Minimum value: 0.60
+
+Column name: Level2_Baseline_RT
+	Number of values: 122
+	Average: 0.69
+	Number of missing values: 0
+	Maximum value: 4.51
+	Minimum value: 0.26
+
+Column name: Level2_Baseline_TTL
+	Number of values: 122
+	Average: 1.40
+	Number of missing values: 0
+	Maximum value: 9.02
+	Minimum value: 0.51
+
+Column name: Level3_Baseline_RT
+	Number of values: 122
+	Average: 0.47
+	Number of missing values: 0
+	Maximum value: 1.64
+	Minimum value: 0.16
+
+Column name: Level3_Baseline_TTL
+	Number of values: 122
+	Average: 2.48
+	Number of missing values: 0
+	Maximum value: 14.82
+	Minimum value: 0.81
+
+Column name: Level4_Baseline_RT
+	Number of values: 122
+	Average: 0.43
+	Number of missing values: 0
+	Maximum value: 1.58
+	Minimum value: 0.16
+
+Column name: Level4_Baseline_TTL
+	Number of values: 122
+	Average: 2.37
+	Number of missing values: 0
+	Maximum value: 22.43
+	Minimum value: 0.79
+
+Column name: Inhibition_1_RI_RT
+	Number of values: 122
+	Average: 0.58
+	Number of missing values: 0
+	Maximum value: 1.29
+	Minimum value: 0.16
+
+Column name: Inhibition_1_RI_False_Alarms
+	Number of values: 122
+	Average: 11.32
+	Number of missing values: 0
+	Maximum value: 38.46
+	Minimum value: 0.00
+
+Column name: Inhibition_2_RI_RT
+	Number of values: 122
+	Average: 0.52
+	Number of missing values: 0
+	Maximum value: 1.36
+	Minimum value: 0.25
+
+Column name: Inhibition_2_RI_False_Alarms
+	Number of values: 122
+	Average: 4.32
+	Number of missing values: 0
+	Maximum value: 20.00
+	Minimum value: 0.00
+
+Column name: Inhibition_3_RI_RT
+	Number of values: 122
+	Average: 0.58
+	Number of missing values: 0
+	Maximum value: 1.22
+	Minimum value: 0.29
+
+Column name: Inhibition_3_RI_False_Alarms
+	Number of values: 122
+	Average: 9.30
+	Number of missing values: 0
+	Maximum value: 30.00
+	Minimum value: 0.00
+
+Column name: Inhibition_4_RI_RT
+	Number of values: 122
+	Average: 0.46
+	Number of missing values: 0
+	Maximum value: 0.85
+	Minimum value: 0.16
+
+Column name: Inhibition_4_RI_False_Alarms
+	Number of values: 122
+	Average: 11.92
+	Number of missing values: 0
+	Maximum value: 40.00
+	Minimum value: 0.00
+
+Column name: Inhibition_5a_RI_RT
+	Number of values: 122
+	Average: 0.56
+	Number of missing values: 0
+	Maximum value: 1.16
+	Minimum value: 0.17
+
+Column name: Inhibition_5a_RI_False_Alarms
+	Number of values: 122
+	Average: 10.44
+	Number of missing values: 0
+	Maximum value: 27.27
+	Minimum value: 0.00
+
+Column name: Inhibition_6a_RI_RT
+	Number of values: 122
+	Average: 0.54
+	Number of missing values: 0
+	Maximum value: 1.21
+	Minimum value: 0.17
+
+Column name: Inhibition_6a_RI_False_Alarms
+	Number of values: 122
+	Average: 11.27
+	Number of missing values: 0
+	Maximum value: 33.33
+	Minimum value: 0.00
+
+Column name: Inhibition_7a_RI_RT
+	Number of values: 122
+	Average: 0.45
+	Number of missing values: 0
+	Maximum value: 0.81
+	Minimum value: 0.13
+
+Column name: Inhibition_7a_RI_False_Alarms
+	Number of values: 122
+	Average: 12.74
+	Number of missing values: 0
+	Maximum value: 33.33
+	Minimum value: 0.00
+
+Column name: Inhibition_8a_RI_RT
+	Number of values: 122
+	Average: 0.47
+	Number of missing values: 0
+	Maximum value: 0.95
+	Minimum value: 0.14
+
+Column name: Inhibition_8a_RI_False_Alarms
+	Number of values: 122
+	Average: 12.38
+	Number of missing values: 0
+	Maximum value: 27.59
+	Minimum value: 0.00
+
+Column name: Shifting_1_Shifting_Congruent_RT
+	Number of values: 122
+	Average: 0.66
+	Number of missing values: 0
+	Maximum value: 1.50
+	Minimum value: 0.28
+
+Column name: Shifting_1_Shifting_Congruent_Accuracy
+	Number of values: 122
+	Average: 0.96
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.67
+
+Column name: Shifting_1_Shifting_Congruent_FA
+	Number of values: 122
+	Average: 0.01
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.00
+
+Column name: Shifting_1_Shifting_Incongruent_RT
+	Number of values: 122
+	Average: 0.62
+	Number of missing values: 0
+	Maximum value: 1.48
+	Minimum value: 0.19
+
+Column name: Shifting_1_Shifting_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.90
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.38
+
+Column name: Shifting_1_Shifting_Incongruent_FA
+	Number of values: 122
+	Average: 0.52
+	Number of missing values: 0
+	Maximum value: 6.00
+	Minimum value: 0.00
+
+Column name: Shifting_1_Total_Errors
+	Number of values: 122
+	Average: 0.53
+	Number of missing values: 0
+	Maximum value: 6.00
+	Minimum value: 0.00
+
+Column name: Shifting_2_Shifting_Congruent_RT
+	Number of values: 122
+	Average: 0.69
+	Number of missing values: 0
+	Maximum value: 1.75
+	Minimum value: 0.34
+
+Column name: Shifting_2_Shifting_Congruent_Accuracy
+	Number of values: 122
+	Average: 0.99
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.60
+
+Column name: Shifting_2_Shifting_Congruent_FA
+	Number of values: 122
+	Average: 0.02
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 0.00
+
+Column name: Shifting_2_Shifting_Incongruent_RT
+	Number of values: 122
+	Average: 0.41
+	Number of missing values: 0
+	Maximum value: 2.16
+	Minimum value: 0.06
+
+Column name: Shifting_2_Shifting_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.98
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.60
+
+Column name: Shifting_2_Shifting_Incongruent_FA
+	Number of values: 122
+	Average: 0.07
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 0.00
+
+Column name: Shifting_2_Total_Errors
+	Number of values: 122
+	Average: 0.09
+	Number of missing values: 0
+	Maximum value: 3.00
+	Minimum value: 0.00
+
+Column name: Shifting_3_Shifting_Congruent_RT
+	Number of values: 122
+	Average: 0.47
+	Number of missing values: 0
+	Maximum value: 1.76
+	Minimum value: 0.05
+
+Column name: Shifting_3_Shifting_Congruent_Accuracy
+	Number of values: 122
+	Average: 0.99
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.60
+
+Column name: Shifting_3_Shifting_Congruent_FA
+	Number of values: 122
+	Average: 0.02
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.00
+
+Column name: Shifting_3_Shifting_Incongruent_RT
+	Number of values: 122
+	Average: 0.66
+	Number of missing values: 0
+	Maximum value: 1.41
+	Minimum value: 0.23
+
+Column name: Shifting_3_Shifting_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.94
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.60
+
+Column name: Shifting_3_Shifting_Incongruent_FA
+	Number of values: 122
+	Average: 0.25
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 0.00
+
+Column name: Shifting_3_Total_Errors
+	Number of values: 122
+	Average: 0.26
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 0.00
+
+Column name: Shifting_4_Shifting_Congruent_RT
+	Number of values: 122
+	Average: 0.50
+	Number of missing values: 0
+	Maximum value: 1.04
+	Minimum value: 0.18
+
+Column name: Shifting_4_Shifting_Congruent_Accuracy
+	Number of values: 122
+	Average: 0.96
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.65
+
+Column name: Shifting_4_Shifting_Congruent_FA
+	Number of values: 122
+	Average: 0.11
+	Number of missing values: 0
+	Maximum value: 7.00
+	Minimum value: 0.00
+
+Column name: Shifting_4_Shifting_Incongruent_RT
+	Number of values: 122
+	Average: 0.54
+	Number of missing values: 0
+	Maximum value: 1.36
+	Minimum value: 0.15
+
+Column name: Shifting_4_Shifting_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.91
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.60
+
+Column name: Shifting_4_Shifting_Incongruent_FA
+	Number of values: 122
+	Average: 0.30
+	Number of missing values: 0
+	Maximum value: 5.00
+	Minimum value: 0.00
+
+Column name: Shifting_4_Total_Errors
+	Number of values: 122
+	Average: 0.41
+	Number of missing values: 0
+	Maximum value: 12.00
+	Minimum value: 0.00
+
+Column name: Shifting_5_Shifting_Congruent_RT
+	Number of values: 122
+	Average: 0.56
+	Number of missing values: 0
+	Maximum value: 1.06
+	Minimum value: 0.20
+
+Column name: Shifting_5_Shifting_Congruent_Accuracy
+	Number of values: 122
+	Average: 0.96
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.72
+
+Column name: Shifting_5_Shifting_Congruent_FA
+	Number of values: 122
+	Average: 0.19
+	Number of missing values: 0
+	Maximum value: 4.00
+	Minimum value: 0.00
+
+Column name: Shifting_5_Shifting_Incongruent_RT
+	Number of values: 122
+	Average: 0.59
+	Number of missing values: 0
+	Maximum value: 1.21
+	Minimum value: 0.19
+
+Column name: Shifting_5_Shifting_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.92
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.64
+
+Column name: Shifting_5_Shifting_Incongruent_FA
+	Number of values: 122
+	Average: 0.77
+	Number of missing values: 0
+	Maximum value: 5.00
+	Minimum value: 0.00
+
+Column name: Shifting_5_Total_Errors
+	Number of values: 122
+	Average: 0.96
+	Number of missing values: 0
+	Maximum value: 6.00
+	Minimum value: 0.00
+
+Column name: Shifting_6_Shifting_Congruent_RT
+	Number of values: 122
+	Average: 0.58
+	Number of missing values: 0
+	Maximum value: 1.81
+	Minimum value: 0.11
+
+Column name: Shifting_6_Shifting_Congruent_Accuracy
+	Number of values: 122
+	Average: 0.97
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.58
+
+Column name: Shifting_6_Shifting_Congruent_FA
+	Number of values: 122
+	Average: 0.19
+	Number of missing values: 0
+	Maximum value: 3.00
+	Minimum value: 0.00
+
+Column name: Shifting_6_Shifting_Incongruent_RT
+	Number of values: 122
+	Average: 0.53
+	Number of missing values: 0
+	Maximum value: 1.81
+	Minimum value: 0.11
+
+Column name: Shifting_6_Shifting_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.96
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.65
+
+Column name: Shifting_6_Shifting_Incongruent_FA
+	Number of values: 122
+	Average: 0.37
+	Number of missing values: 0
+	Maximum value: 6.00
+	Minimum value: 0.00
+
+Column name: Shifting_6_Total_Errors
+	Number of values: 122
+	Average: 0.56
+	Number of missing values: 0
+	Maximum value: 8.00
+	Minimum value: 0.00
+
+Column name: Shifting_7_Shifting_Congruent_RT
+	Number of values: 122
+	Average: 0.47
+	Number of missing values: 0
+	Maximum value: 0.88
+	Minimum value: 0.15
+
+Column name: Shifting_7_Shifting_Congruent_Accuracy
+	Number of values: 122
+	Average: 0.57
+	Number of missing values: 0
+	Maximum value: 0.62
+	Minimum value: 0.36
+
+Column name: Shifting_7_Shifting_Congruent_FA
+	Number of values: 122
+	Average: 0.02
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.00
+
+Column name: Shifting_7_Shifting_Incongruent_RT
+	Number of values: 122
+	Average: 0.54
+	Number of missing values: 0
+	Maximum value: 1.12
+	Minimum value: 0.08
+
+Column name: Shifting_7_Shifting_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.91
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.55
+
+Column name: Shifting_7_Shifting_Incongruent_FA
+	Number of values: 122
+	Average: 0.39
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 0.00
+
+Column name: Shifting_7_Total_Errors
+	Number of values: 122
+	Average: 0.40
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 0.00
+
+Column name: Shifting_8_Shifting_Congruent_RT
+	Number of values: 122
+	Average: 0.45
+	Number of missing values: 0
+	Maximum value: 0.72
+	Minimum value: 0.15
+
+Column name: Shifting_8_Shifting_Congruent_Accuracy
+	Number of values: 122
+	Average: 0.58
+	Number of missing values: 0
+	Maximum value: 0.67
+	Minimum value: 0.40
+
+Column name: Shifting_8_Shifting_Congruent_FA
+	Number of values: 122
+	Average: 0.02
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 0.00
+
+Column name: Shifting_8_Shifting_Incongruent_RT
+	Number of values: 122
+	Average: 0.52
+	Number of missing values: 0
+	Maximum value: 1.01
+	Minimum value: 0.14
+
+Column name: Shifting_8_Shifting_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.96
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.71
+
+Column name: Shifting_8_Shifting_Incongruent_FA
+	Number of values: 122
+	Average: 0.20
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 0.00
+
+Column name: Shifting_8_Total_Errors
+	Number of values: 122
+	Average: 0.22
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 0.00
+
+Column name: Inversion_1_CogInhib_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.86
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.33
+
+Column name: Inversion_1_CogInhib_Incongruent_RT
+	Number of values: 122
+	Average: 1.20
+	Number of missing values: 0
+	Maximum value: 3.65
+	Minimum value: 0.26
+
+Column name: Inversion_1_Conflict_Resolution_Accuracy
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_1_Conflict_Resolution_RT
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_2_CogInhib_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.95
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.40
+
+Column name: Inversion_2_CogInhib_Incongruent_RT
+	Number of values: 122
+	Average: 0.79
+	Number of missing values: 0
+	Maximum value: 2.22
+	Minimum value: 0.12
+
+Column name: Inversion_2_Conflict_Resolution_Accuracy
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_2_Conflict_Resolution_RT
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_3_CogInhib_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.94
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.50
+
+Column name: Inversion_3_CogInhib_Incongruent_RT
+	Number of values: 122
+	Average: 0.85
+	Number of missing values: 0
+	Maximum value: 2.13
+	Minimum value: 0.26
+
+Column name: Inversion_3_Conflict_Resolution_Accuracy
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_3_Conflict_Resolution_RT
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_4_CogInhib_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.89
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.36
+
+Column name: Inversion_4_CogInhib_Incongruent_RT
+	Number of values: 122
+	Average: 0.83
+	Number of missing values: 0
+	Maximum value: 1.98
+	Minimum value: 0.32
+
+Column name: Inversion_4_Conflict_Resolution_Accuracy
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_4_Conflict_Resolution_RT
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_Alt_1_CogInhib_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_Alt_1_CogInhib_Incongruent_RT
+	Number of values: 122
+	Average: 1.24
+	Number of missing values: 0
+	Maximum value: 3.73
+	Minimum value: 0.27
+
+Column name: Inversion_Alt_1_Conflict_Resolution_Accuracy
+	Number of values: 122
+	Average: 0.78
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.14
+
+Column name: Inversion_Alt_1_Conflict_Resolution_RT
+	Number of values: 122
+	Average: 1.25
+	Number of missing values: 0
+	Maximum value: 6.78
+	Minimum value: 0.20
+
+Column name: Inversion_5_CogInhib_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.93
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.55
+
+Column name: Inversion_5_CogInhib_Incongruent_RT
+	Number of values: 122
+	Average: 0.90
+	Number of missing values: 0
+	Maximum value: 2.32
+	Minimum value: 0.36
+
+Column name: Inversion_5_Conflict_Resolution_Accuracy
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_5_Conflict_Resolution_RT
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_6_CogInhib_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.91
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.50
+
+Column name: Inversion_6_CogInhib_Incongruent_RT
+	Number of values: 122
+	Average: 0.68
+	Number of missing values: 0
+	Maximum value: 1.42
+	Minimum value: 0.28
+
+Column name: Inversion_6_Conflict_Resolution_Accuracy
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_6_Conflict_Resolution_RT
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_7_CogInhib_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.88
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.55
+
+Column name: Inversion_7_CogInhib_Incongruent_RT
+	Number of values: 122
+	Average: 0.70
+	Number of missing values: 0
+	Maximum value: 1.68
+	Minimum value: 0.24
+
+Column name: Inversion_7_Conflict_Resolution_Accuracy
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_7_Conflict_Resolution_RT
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_8_CogInhib_Incongruent_Accuracy
+	Number of values: 122
+	Average: 0.88
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.63
+
+Column name: Inversion_8_CogInhib_Incongruent_RT
+	Number of values: 122
+	Average: 0.65
+	Number of missing values: 0
+	Maximum value: 1.21
+	Minimum value: 0.15
+
+Column name: Inversion_8_Conflict_Resolution_Accuracy
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Inversion_8_Conflict_Resolution_RT
+	Number of values: 122
+	Average: 0.00
+	Number of missing values: 0
+	Maximum value: 0.00
+	Minimum value: 0.00
+
+Column name: Memory_a_WM_Hits
+	Number of values: 122
+	Average: 1.03
+	Number of missing values: 0
+	Maximum value: 3.25
+	Minimum value: 1.00
+
+Column name: Memory_a_WM_FA
+	Number of values: 122
+	Average: 0.08
+	Number of missing values: 0
+	Maximum value: 2.50
+	Minimum value: 0.00
+
+Column name: Memory_a_WM_PR
+	Number of values: 122
+	Average: 0.95
+	Number of missing values: 0
+	Maximum value: 1.50
+	Minimum value: 0.25
+
+Column name: Memory_a_Min_moves_exit
+	Number of values: 122
+	Average: 4.00
+	Number of missing values: 0
+	Maximum value: 4.00
+	Minimum value: 4.00
+
+Column name: Memory_a_n_Attempts
+	Number of values: 122
+	Average: 1.02
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 1.00
+
+Column name: Memory_a_WM_Return_Efficiency
+	Number of values: 122
+	Average: 0.95
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.17
+
+Column name: Memory_b_WM_Hits
+	Number of values: 122
+	Average: 1.71
+	Number of missing values: 0
+	Maximum value: 5.75
+	Minimum value: 1.00
+
+Column name: Memory_b_WM_FA
+	Number of values: 122
+	Average: 0.13
+	Number of missing values: 0
+	Maximum value: 0.75
+	Minimum value: 0.00
+
+Column name: Memory_b_WM_PR
+	Number of values: 122
+	Average: 1.58
+	Number of missing values: 0
+	Maximum value: 5.00
+	Minimum value: 1.00
+
+Column name: Memory_b_Min_moves_exit
+	Number of values: 122
+	Average: 4.00
+	Number of missing values: 0
+	Maximum value: 4.00
+	Minimum value: 4.00
+
+Column name: Memory_b_n_Attempts
+	Number of values: 122
+	Average: 1.68
+	Number of missing values: 0
+	Maximum value: 5.00
+	Minimum value: 1.00
+
+Column name: Memory_b_WM_Return_Efficiency
+	Number of values: 122
+	Average: 0.73
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.15
+
+Column name: Memory_c_WM_Hits
+	Number of values: 122
+	Average: 1.00
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 1.00
+
+Column name: Memory_c_WM_FA
+	Number of values: 122
+	Average: 0.04
+	Number of missing values: 0
+	Maximum value: 0.80
+	Minimum value: 0.00
+
+Column name: Memory_c_WM_PR
+	Number of values: 122
+	Average: 0.96
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.20
+
+Column name: Memory_c_Min_moves_exit
+	Number of values: 122
+	Average: 5.00
+	Number of missing values: 0
+	Maximum value: 5.00
+	Minimum value: 5.00
+
+Column name: Memory_c_n_Attempts
+	Number of values: 122
+	Average: 1.00
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 1.00
+
+Column name: Memory_c_WM_Return_Efficiency
+	Number of values: 122
+	Average: 0.97
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.56
+
+Column name: Memory_d_WM_Hits
+	Number of values: 122
+	Average: 1.05
+	Number of missing values: 0
+	Maximum value: 4.00
+	Minimum value: 1.00
+
+Column name: Memory_d_WM_FA
+	Number of values: 122
+	Average: 0.09
+	Number of missing values: 0
+	Maximum value: 2.20
+	Minimum value: 0.00
+
+Column name: Memory_d_WM_PR
+	Number of values: 122
+	Average: 0.95
+	Number of missing values: 0
+	Maximum value: 2.80
+	Minimum value: 0.60
+
+Column name: Memory_d_Min_moves_exit
+	Number of values: 122
+	Average: 5.00
+	Number of missing values: 0
+	Maximum value: 5.00
+	Minimum value: 5.00
+
+Column name: Memory_d_n_Attempts
+	Number of values: 122
+	Average: 1.02
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 1.00
+
+Column name: Memory_d_WM_Return_Efficiency
+	Number of values: 122
+	Average: 0.94
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.17
+
+Column name: Memory_e_WM_Hits
+	Number of values: 122
+	Average: 1.00
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 1.00
+
+Column name: Memory_e_WM_FA
+	Number of values: 122
+	Average: 0.07
+	Number of missing values: 0
+	Maximum value: 0.67
+	Minimum value: 0.00
+
+Column name: Memory_e_WM_PR
+	Number of values: 122
+	Average: 0.93
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.33
+
+Column name: Memory_e_Min_moves_exit
+	Number of values: 122
+	Average: 6.00
+	Number of missing values: 0
+	Maximum value: 6.00
+	Minimum value: 6.00
+
+Column name: Memory_e_n_Attempts
+	Number of values: 122
+	Average: 1.00
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 1.00
+
+Column name: Memory_e_WM_Return_Efficiency
+	Number of values: 122
+	Average: 0.94
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.60
+
+Column name: Memory_f_WM_Hits
+	Number of values: 122
+	Average: 1.01
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 1.00
+
+Column name: Memory_f_WM_FA
+	Number of values: 122
+	Average: 0.04
+	Number of missing values: 0
+	Maximum value: 0.83
+	Minimum value: 0.00
+
+Column name: Memory_f_WM_PR
+	Number of values: 122
+	Average: 0.98
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 0.17
+
+Column name: Memory_f_Min_moves_exit
+	Number of values: 122
+	Average: 6.00
+	Number of missing values: 0
+	Maximum value: 6.00
+	Minimum value: 6.00
+
+Column name: Memory_f_n_Attempts
+	Number of values: 122
+	Average: 1.00
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 1.00
+
+Column name: Memory_f_WM_Return_Efficiency
+	Number of values: 122
+	Average: 0.97
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.50
+
+Column name: Memory_fg_WM_Hits
+	Number of values: 122
+	Average: 1.04
+	Number of missing values: 0
+	Maximum value: 3.71
+	Minimum value: 1.00
+
+Column name: Memory_fg_WM_FA
+	Number of values: 122
+	Average: 0.13
+	Number of missing values: 0
+	Maximum value: 1.71
+	Minimum value: 0.00
+
+Column name: Memory_fg_WM_PR
+	Number of values: 122
+	Average: 0.91
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: -0.14
+
+Column name: Memory_fg_Min_moves_exit
+	Number of values: 122
+	Average: 7.00
+	Number of missing values: 0
+	Maximum value: 7.00
+	Minimum value: 7.00
+
+Column name: Memory_fg_n_Attempts
+	Number of values: 122
+	Average: 1.01
+	Number of missing values: 0
+	Maximum value: 2.00
+	Minimum value: 1.00
+
+Column name: Memory_fg_WM_Return_Efficiency
+	Number of values: 122
+	Average: 0.90
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.18
+
+Column name: Memory_g_WM_Hits
+	Number of values: 122
+	Average: 1.52
+	Number of missing values: 0
+	Maximum value: 20.14
+	Minimum value: 1.00
+
+Column name: Memory_g_WM_FA
+	Number of values: 122
+	Average: 0.43
+	Number of missing values: 0
+	Maximum value: 7.14
+	Minimum value: 0.00
+
+Column name: Memory_g_WM_PR
+	Number of values: 122
+	Average: 1.09
+	Number of missing values: 0
+	Maximum value: 13.00
+	Minimum value: 0.29
+
+Column name: Memory_g_Min_moves_exit
+	Number of values: 122
+	Average: 7.00
+	Number of missing values: 0
+	Maximum value: 7.00
+	Minimum value: 7.00
+
+Column name: Memory_g_n_Attempts
+	Number of values: 122
+	Average: 1.20
+	Number of missing values: 0
+	Maximum value: 8.00
+	Minimum value: 1.00
+
+Column name: Memory_g_WM_Return_Efficiency
+	Number of values: 122
+	Average: 0.74
+	Number of missing values: 0
+	Maximum value: 1.00
+	Minimum value: 0.04
+

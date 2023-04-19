@@ -1,0 +1,359 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q2,Q14,Q3,Q4,Q5,Q6,Q7,Q12_1,Q12_2,Q12_3,Q12_4,Q12_5,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q10_1,Q10_2,Q10_3,Q10_4,Q10_5,Q10_6,Q10_7,Q13_1,Q13_2,Q13_3,Q13_4,Q13_5,Q13_6,Q13_7,Q11_1,Q2 - Parent Topics,Q2 - Topics
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,First Name:,Last Name:,Age:,Grade:,Gender:,Race (check all that apply):,"On average, how many hours per week do you play video games?","Please answer the following questions according to the scale shown below. - When I want to feel happier, I think about something different",Please answer the following questions according to the scale shown below. - I keep my feelings to myself,"Please answer the following questions according to the scale shown below. - When I want to feel less bad (e.g. sad, angry, or worried), I think about something different","Please answer the following questions according to the scale shown below. - When I am feeling happy, I am careful not to show it","Please answer the following questions according to the scale shown below. - When I am worried about something, I make myself think about it in a way that helps me feel better",Please answer the following questions according to the scale shown below. - I control my feelings by not showing them,"Please answer the following questions according to the scale shown below. - When I want to feel happier about something, I change the way I'm thinking about it",Please answer the following questions according to the scale shown below. - I control my feelings about things by changing the way I think about them,"Please answer the following questions according to the scale shown below. - When I'm feeling bad (e.g. sad, angry, or worried), I'm careful not to show it","Please answer the following questions according to the scale shown below. - When I want to feel less bad (e.g. sad, angry, or worried) about something, I change the way I'm thinking about it",Please answer the following questions according to the scale shown below. - The effects of stress are negative and should be avoided.,Please answer the following questions according to the scale shown below. - Experiencing stress facilitates my learning and growth.,Please answer the following questions according to the scale shown below. - Experiencing stress depletes my health and vitality.,Please answer the following questions according to the scale shown below. - Experiencing stress enhances my performance and productivity.,Please answer the following questions according to the scale shown below. - Experiencing stress inhibits my learning and growth.,Please answer the following questions according to the scale shown below. - Experiencing stress improves my health and vitality.,Please answer the following questions according to the scale shown below. - Experiencing stress debilitates my performance and productivity.,Please answer the following questions according to the scale shown below. - The effects of stress are positive and should be utilized.,Please answer the following questions according to the scale shown below. - I could be experiencing some emotion and not be conscious of it until some time later.,"Please answer the following questions according to the scale shown below. - I break or spill things because of carelessness, not paying attention, or thinking of something else.",Please answer the following questions according to the scale shown below. - I find it difficult to stay focused on what's happening in the present.,Please answer the following questions according to the scale shown below. - I tend to walk quickly where I'm going without paying attention along the way.,Please answer the following questions according to the scale shown below. - I tend not to notice feelings of physical tension or discomfort until they really grab my attention.,Please answer the following questions according to the scale shown below. - I forget a person's name almost as soon as I've been told it for the first time.,"Please answer the following questions according to the scale shown below. - It seems I'm ""running on automatic"" without much awareness of what I'm doing.",Please answer the following questions according to the scale shown below. - I rush through activities without being really attentive to them.,Please answer the following questions according to the scale shown below. - I get so focused on the goal I want to achieve that I lose touch with what I'm doing right now to get there.,"Please answer the following questions according to the scale shown below. - I do jobs or tasks automatically, without being aware of what I'm doing.","Please answer the following questions according to the scale shown below. - I find myself listening to someone with one ear, doing something else at the same time.",Please answer the following questions according to the scale shown below. - I find myself preoccupied with the future or the past.,Please answer the following questions according to the scale shown below. - I find myself doing things without paying attention.,Please answer the following questions according to the scale shown below. - I snack without being aware that I'm eating.,"On a scale from 1 to 5, how math anxious are you? - 1",Q2 - Parent Topics,Q2 - Topics
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID14_TEXT""}","{""ImportId"":""QID3_TEXT""}","{""ImportId"":""QID4_TEXT""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7_TEXT""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID12_5""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID8_2""}","{""ImportId"":""QID8_3""}","{""ImportId"":""QID8_4""}","{""ImportId"":""QID8_5""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID9_2""}","{""ImportId"":""QID9_3""}","{""ImportId"":""QID9_4""}","{""ImportId"":""QID9_5""}","{""ImportId"":""QID9_6""}","{""ImportId"":""QID9_7""}","{""ImportId"":""QID9_8""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID10_2""}","{""ImportId"":""QID10_3""}","{""ImportId"":""QID10_4""}","{""ImportId"":""QID10_5""}","{""ImportId"":""QID10_6""}","{""ImportId"":""QID10_7""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID13_5""}","{""ImportId"":""QID13_6""}","{""ImportId"":""QID13_7""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID2_TEXT_4f7ee3db899642ddb5f36685ParTopics""}","{""ImportId"":""QID2_TEXT_4f7ee3db899642ddb5f36685Topics""}"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/24 18:49,2021/3/24 19:13,IP Address,*******,100,1453,TRUE,2021/3/24 19:13,R_1GE3GBoXJUzdrtV,*******,*******,*******,*******,*******,*******,anonymous,EN,Briana Sun,,10,5th grade,Female,Asian,"0, I don't play much.",4,2,3,3,4,2,4,2,3,4,5,2,3,1,3,1,4,2,2,5,5,3,3,6,3,6,4,5,5,2,3,2,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/26 8:58,2021/3/26 9:05,IP Address,*******,100,459,TRUE,2021/3/26 9:05,R_1I5Y15KyjdhGMPN,*******,*******,*******,*******,*******,*******,anonymous,EN,Nathan ,,14,9,Male,Decline to answer,49,4,3,3,3,2,3,3,3,4,2,4,3,4,2,3,2,3,3,3,4,3,4,2,5,4,4,5,5,4,3,4,3,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/27 11:27,2021/3/27 12:25,IP Address,*******,100,3471,TRUE,2021/3/27 12:25,R_yjSt20Uo5gNiWnT,*******,*******,*******,*******,*******,*******,anonymous,EN,Tenzin Jamyang,,15,10th,Male,Asian,7-6月,1,4,4,4,3,3,3,3,3,4,5,3,4,3,2,2,3,2,4,5,3,2,4,3,4,2,2,4,4,2,3,4,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/29 10:17,2021/3/29 10:26,IP Address,*******,100,533,TRUE,2021/3/29 10:26,R_3knpApAdzIVoUN6,*******,*******,*******,*******,*******,*******,anonymous,EN,Eden Grossman,,14,8th,Female,White,3,3,2,3,1,2,1,3,3,3,3,4,2,4,2,4,3,3,2,4,3,4,6,4,5,6,5,5,6,4,2,3,2,5,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/29 11:41,2021/3/29 11:48,IP Address,*******,100,462,TRUE,2021/3/29 11:48,R_2tnd55QXI2D01Qx,*******,*******,*******,*******,*******,*******,anonymous,EN,Ben Rossi,,15,9,Male,White,21,3,5,2,2,3,3,4,3,3,3,3,4,2,3,2,3,3,3,2,2,2,2,4,2,2,2,3,2,3,3,2,2,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/29 13:44,2021/3/29 13:55,IP Address,*******,100,622,TRUE,2021/3/29 13:55,R_SOUxDE82u5ib5nz,*******,*******,*******,*******,*******,*******,anonymous,EN,Lauren Lin,,11,5,Female,Asian,0,3,4,4,1,5,1,4,4,1,4,3,4,4,5,1,1,1,3,6,2,4,4,6,4,5,5,6,6,2,3,4,5,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/30 6:13,2021/3/30 6:18,IP Address,*******,100,286,TRUE,2021/3/30 6:18,R_2WYBoqSTkBfgxdo,*******,*******,*******,*******,*******,*******,anonymous,EN,Annie Talone,,12,6th,Female,White,0,3,3,3,2,4,4,4,4,4,4,3,4,4,2,2,2,3,2,3,6,6,4,6,6,4,5,3,3,4,4,5,5,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/30 8:06,2021/3/30 10:25,IP Address,*******,100,8316,TRUE,2021/3/30 10:25,R_DUVhJVFGdCqtap3,*******,*******,*******,*******,*******,*******,anonymous,EN,Santiago Derrien,,11,5th grade,Male,White,4 hours,3,2,2,1,1,2,3,2,1,2,4,2,3,1,4,3,4,2,5,3,3,6,6,3,6,3,4,6,3,1,5,1,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/30 10:25,2021/3/30 10:32,IP Address,*******,100,429,TRUE,2021/3/30 10:32,R_3k7doVNriKz6elN,*******,*******,*******,*******,*******,*******,anonymous,EN,Sai Pranav Gandhi,,12,6,Male,Asian,13,5,1,5,1,4,1,3,3,2,4,4,3,2,2,2,2,3,2,5,3,6,5,6,5,5,5,3,5,5,6,6,6,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/30 12:58,2021/3/30 13:06,IP Address,*******,100,478,TRUE,2021/3/30 13:06,R_2y7ODjGLWdm7UMX,*******,*******,*******,*******,*******,*******,anonymous,EN,Kelsey Senner,,11,6th,Female,White,0 hours,3,2,3,1,3,4,2,1,1,1,5,1,5,1,5,1,1,1,3,5,3,1,6,2,3,2,1,5,2,3,5,4,5,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/30 13:17,2021/3/30 13:28,IP Address,*******,100,685,TRUE,2021/3/30 13:28,R_31tw82pDrgJOlmI,*******,*******,*******,*******,*******,*******,anonymous,EN,Paolo Caggioni,,11,5th,Male,White,20,4,5,4,1,2,3,4,4,3,4,4,3,1,2,2,1,2,3,3,6,4,3,3,5,6,4,5,2,2,1,5,6,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/30 15:18,2021/3/30 15:25,IP Address,*******,100,411,TRUE,2021/3/30 15:25,R_21yQGni6tLW0pHP,*******,*******,*******,*******,*******,*******,anonymous,EN,Mae Alwart,,12,6,Female,White,2,3,3,5,1,4,2,4,3,3,3,4,2,4,2,3,2,4,1,5,6,4,6,6,6,5,6,6,5,4,4,4,6,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/30 16:30,2021/3/30 16:38,IP Address,*******,100,493,TRUE,2021/3/30 16:38,R_3fQaB9Z4V80542I,*******,*******,*******,*******,*******,*******,anonymous,EN,Adam Veliz,,13,7,Male,White,21,2,5,4,3,1,5,2,2,4,2,4,2,4,1,4,1,4,2,2,2,2,2,2,6,2,2,5,6,2,5,6,3,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/31 9:33,2021/3/31 9:46,IP Address,*******,100,804,TRUE,2021/3/31 9:46,R_6M9VCslHABCp2Vz,*******,*******,*******,*******,*******,*******,anonymous,EN,Donovan Carroll ,,14,8,Male,White,21,3,1,1,1,3,2,4,3,2,3,4,3,4,3,3,2,4,2,3,5,4,2,2,1,1,6,5,4,4,3,4,6,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/31 11:24,2021/3/31 11:30,IP Address,*******,100,323,TRUE,2021/3/31 11:30,R_1ge8ss8J1zB4SqR,*******,*******,*******,*******,*******,*******,anonymous,EN,Leyna Pham,,16,11,Female,Asian,0.5,4,4,3,1,4,3,4,4,4,4,4,4,3,3,4,3,4,4,5,3,5,1,4,3,6,5,6,5,5,4,4,3,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/31 13:17,2021/3/31 13:27,IP Address,*******,100,583,TRUE,2021/3/31 13:27,R_2y7cKQUt7XTLIKI,*******,*******,*******,*******,*******,*******,anonymous,EN,Olivia Long,,11,6th,Female,White,14,3,2,2,1,3,2,3,3,3,3,4,2,3,2,2,3,3,2,3,6,5,2,4,4,5,5,4,5,5,4,6,5,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/31 14:19,2021/3/31 14:25,IP Address,*******,100,355,TRUE,2021/3/31 14:25,R_2wNMB3UyJXgdlLd,*******,*******,*******,*******,*******,*******,anonymous,EN,Siena Fershtman,,16,10,Female,White,5,4,5,4,2,3,2,3,3,2,3,4,4,3,2,3,2,4,3,6,6,4,5,3,2,4,3,6,4,2,1,4,6,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/31 14:19,2021/3/31 14:31,IP Address,*******,100,734,TRUE,2021/3/31 14:31,R_2V2NxjIohXv82rG,*******,*******,*******,*******,*******,*******,anonymous,EN,Jack Armstrong ,,15,10,Male,White,20,2,1,4,1,3,2,3,3,3,3,3,2,4,1,4,1,4,2,6,6,5,6,5,5,6,5,5,5,4,3,5,6,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/31 14:41,2021/3/31 14:47,IP Address,*******,100,346,TRUE,2021/3/31 14:47,R_1MKVhduRvYpURe0,*******,*******,*******,*******,*******,*******,anonymous,EN,Gracen Golebiewski,,15,9th,Male,White,15,3,4,3,2,4,2,3,1,1,3,3,2,3,3,3,2,2,3,2,2,3,2,2,4,2,4,5,5,6,3,4,4,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/31 16:08,2021/3/31 16:17,IP Address,*******,100,528,TRUE,2021/3/31 16:17,R_3MJV7NJggvz0EkN,*******,*******,*******,*******,*******,*******,anonymous,EN,Colette Murray Hayden,,12,6,Female,White,12,3,2,3,1,4,1,3,3,2,4,5,3,1,1,1,1,1,1,6,4,3,4,6,1,5,5,5,5,3,3,5,6,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/31 16:46,2021/3/31 16:51,IP Address,*******,100,329,TRUE,2021/3/31 16:51,R_1LhZxWeHYLzvjWI,*******,*******,*******,*******,*******,*******,anonymous,EN,Caroline Murray Hayden,,15,9,Female,White,0,4,2,4,2,4,2,4,4,1,4,4,4,4,4,2,2,4,3,1,3,3,3,2,6,3,4,5,4,4,2,4,5,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/31 18:36,2021/3/31 18:45,IP Address,*******,100,556,TRUE,2021/3/31 18:45,R_3CWcLVjtyMzd9Gz,*******,*******,*******,*******,*******,*******,anonymous,EN,Jack Ellingwood,,15,9th,Male,White,30-40,4,2,3,1,4,2,4,3,4,3,4,2,4,3,1,2,2,2,2,2,5,2,3,1,2,2,3,2,4,3,1,5,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/3/31 21:07,2021/3/31 21:12,IP Address,*******,100,338,TRUE,2021/3/31 21:12,R_25QHm5tu8sKuV6o,*******,*******,*******,*******,*******,*******,anonymous,EN,Damian Hanford,,11,6th Grade,Male,White,Possibly all day,3,2,4,5,3,3,4,3,3,2,2,3,2,1,2,1,2,2,4,2,1,4,3,6,3,2,3,5,3,4,2,3,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/1 9:47,2021/4/1 9:55,IP Address,*******,100,481,TRUE,2021/4/1 9:55,R_7USfil1P8aGGYVz,*******,*******,*******,*******,*******,*******,anonymous,EN,Krystal Gan,,16,11th,Female,Asian,2 hours,3,4,4,2,2,3,2,4,3,3,5,3,4,2,3,2,4,2,5,4,5,5,4,2,4,3,4,4,2,2,4,6,5,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/1 15:50,2021/4/1 15:57,IP Address,*******,100,410,TRUE,2021/4/1 15:57,R_1Fxkwj4AceLLiXq,*******,*******,*******,*******,*******,*******,anonymous,EN,Jack Reynolds ,,11,5,Male,Other,10,3,3,2,1,3,3,2,3,3,2,2,3,1,2,1,1,2,2,6,6,3,6,4,6,6,4,6,3,6,4,4,6,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/1 15:58,2021/4/1 16:08,IP Address,*******,100,591,TRUE,2021/4/1 16:08,R_UQ073SeJaRwQA0x,*******,*******,*******,*******,*******,*******,anonymous,EN,Sophie Reynolds,,11,5th,Female,Other,10 hours,3,5,3,1,3,3,3,3,3,3,3,2,2,2,3,2,3,1,6,6,6,6,6,6,6,6,6,6,5,5,5,6,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/1 16:17,2021/4/1 16:38,IP Address,*******,100,1263,TRUE,2021/4/1 16:38,R_1FgE5RVchaanMzO,*******,*******,*******,*******,*******,*******,anonymous,EN,Lydia Ellingwood,,12,Sixth grade,Female,White,12,3,2,2,1,4,3,4,5,2,3,3,3,2,2,3,2,4,2,6,5,6,6,6,1,6,6,3,5,6,3,5,6,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/2 19:02,2021/4/2 19:11,IP Address,*******,100,544,TRUE,2021/4/2 19:11,R_3JC7xT7gAptOEEK,*******,*******,*******,*******,*******,*******,anonymous,EN,Fionnuala Dill,,15,9th,Female,White,three hours,3,3,2,1,3,2,3,3,3,2,4,4,3,4,3,2,2,3,4,6,5,3,3,4,4,4,5,5,3,4,4,2,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/2 19:01,2021/4/2 19:18,IP Address,*******,100,1046,TRUE,2021/4/2 19:18,R_2AM4mzl8HKoI0ci,*******,*******,*******,*******,*******,*******,anonymous,EN,Orlaith Dill,,11,6,Female,White,8,4,3,5,2,3,3,3,2,4,3,3,3,4,4,2,2,3,3,3,2,2,2,3,3,3,3,4,6,2,4,4,3,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/3 7:30,2021/4/3 8:25,IP Address,*******,100,3283,TRUE,2021/4/3 8:25,R_4JIfg8opvLDbao1,*******,*******,*******,*******,*******,*******,anonymous,EN,Natalie Merriam,,12,6,Female,White,5,3,4,3,1,4,3,3,4,3,4,4,4,3,2,3,3,4,2,3,5,5,4,2,6,5,6,3,5,2,3,5,3,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/3 9:36,2021/4/3 10:02,IP Address,*******,100,1573,TRUE,2021/4/3 10:02,R_5dq9gKgyPcSnOMx,*******,*******,*******,*******,*******,*******,anonymous,EN,Isabelle Merriam ,,14,8th ,Female,White,1-2. Hours ,3,2,3,1,4,3,4,3,2,2,3,3,3,3,3,2,3,2,4,6,4,1,4,6,6,2,6,5,3,3,4,3,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/3 20:16,2021/4/3 20:26,IP Address,*******,100,597,TRUE,2021/4/3 20:26,R_3ee4e8XGSzIFuSU,*******,*******,*******,*******,*******,*******,anonymous,EN,Aarav Vijay,,15,9th Grade,Male,Decline to answer,7,3,4,3,2,3,3,4,2,3,4,5,4,4,3,3,2,2,1,3,5,5,5,3,6,5,5,3,6,6,3,6,6,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/4 12:09,2021/4/4 12:25,IP Address,*******,100,967,TRUE,2021/4/4 12:25,R_ODWelT0k59vDm13,*******,*******,*******,*******,*******,*******,anonymous,EN,Julie Breedveld,,16,11,Female,White,0,4,3,4,2,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,4,2,3,2,2,3,2,2,2,3,3,2,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/4 16:26,2021/4/4 16:29,IP Address,*******,100,206,TRUE,2021/4/4 16:29,R_11isKmmz9xO4bWO,*******,*******,*******,*******,*******,*******,anonymous,EN,Jackson Hicke,,16,10th,Male,White,8,4,4,4,1,4,2,4,3,2,4,5,4,4,2,3,1,3,1,3,4,4,3,2,1,4,4,3,2,4,3,5,4,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/4 17:46,2021/4/4 17:56,IP Address,*******,100,601,TRUE,2021/4/4 17:56,R_2bPF0xdPkgbg2ou,*******,*******,*******,*******,*******,*******,anonymous,EN,Alivia Rossi,,11,5,Female,Other,9,3,3,3,1,4,2,2,3,2,3,2,2,3,3,3,3,2,2,5,4,6,6,5,6,4,6,5,5,5,4,4,5,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/5 8:26,2021/4/5 8:34,IP Address,*******,100,473,TRUE,2021/4/5 8:34,R_1g1lQmzOdlwDVLh,*******,*******,*******,*******,*******,*******,anonymous,EN,Carys Green,,12,7th,Female,White,3-1月,2,2,2,2,2,2,2,2,2,2,2,4,2,4,4,3,2,3,5,4,5,4,5,5,5,5,4,5,3,4,5,6,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/5 8:35,2021/4/5 8:42,IP Address,*******,100,447,TRUE,2021/4/5 8:42,R_zUw5Snv7y7qOCrv,*******,*******,*******,*******,*******,*******,anonymous,EN,Fitz Green,,14,8th,Male,Decline to answer,3-1月,2,4,2,1,1,2,2,2,2,2,3,3,2,2,3,2,2,2,6,6,5,5,5,4,5,5,6,5,4,6,5,6,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/5 10:46,2021/4/5 10:52,IP Address,*******,100,385,TRUE,2021/4/5 10:52,R_1FCCy2pQuFbuczm,*******,*******,*******,*******,*******,*******,anonymous,EN,Emma Hicke,,13,8,Female,White,0,4,3,4,3,4,3,3,3,4,4,3,3,2,3,3,3,3,3,5,3,5,3,5,3,5,5,5,4,4,3,5,4,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/5 11:47,2021/4/5 11:51,IP Address,*******,100,222,TRUE,2021/4/5 11:51,R_2dEcLSxV42DFbFA,*******,*******,*******,*******,*******,*******,anonymous,EN,Garion O'Hehir,,11,6,Male,White,5,3,4,2,3,2,4,2,4,2,4,4,2,4,4,2,2,2,4,3,1,1,1,2,6,3,2,2,4,1,2,2,5,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/5 12:27,2021/4/5 12:36,IP Address,*******,100,570,TRUE,2021/4/5 12:36,R_1ojOBNC5LH4GTzS,*******,*******,*******,*******,*******,*******,anonymous,EN,Conor Hicke,,12,6,Male,White,10,2,3,2,2,3,2,2,2,2,2,3,3,3,2,4,2,4,3,5,4,2,3,5,5,4,2,5,5,2,4,2,5,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/5 13:28,2021/4/5 13:36,IP Address,*******,100,472,TRUE,2021/4/5 13:36,R_2e2VK72h25riFPV,*******,*******,*******,*******,*******,*******,anonymous,EN,Ethan Matas,,13,7,Male,White,7,3,3,3,2,3,5,3,3,4,3,5,1,5,1,1,1,1,1,3,6,3,6,3,1,1,1,2,3,3,3,2,1,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/5 13:24,2021/4/5 13:37,IP Address,*******,100,769,TRUE,2021/4/5 13:37,R_27qg4lfwYtUQhwF,*******,*******,*******,*******,*******,*******,anonymous,EN,Gabi Matas,,13,7th,Female,White,3.5,5,3,4,1,4,3,3,2,2,2,5,3,2,4,4,3,4,2,6,6,6,5,5,6,6,6,6,6,4,5,6,6,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/5 14:31,2021/4/5 14:47,IP Address,*******,100,1008,TRUE,2021/4/5 14:47,R_AyQFkMAdsHXojkZ,*******,*******,*******,*******,*******,*******,anonymous,EN,Cam ,,12,6,Male,"White,Other",21 hours per week,3,3,5,2,3,2,3,3,3,3,4,3,2,1,3,2,3,3,3,4,2,2,4,5,1,4,3,5,1,2,3,1,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/5 18:25,2021/4/5 18:34,IP Address,*******,100,491,TRUE,2021/4/5 18:34,R_12cee7Bay5q90XA,*******,*******,*******,*******,*******,*******,anonymous,EN,Noah Miller,,14,9,Male,White,35,3,2,3,1,1,2,3,1,3,2,4,1,4,1,4,1,5,1,3,3,1,3,2,1,3,3,3,5,1,1,5,2,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/6 7:20,2021/4/6 7:25,IP Address,*******,100,334,TRUE,2021/4/6 7:26,R_9zS6VOFraYisIBb,*******,*******,*******,*******,*******,*******,anonymous,EN,Avery Donschikowski,,15,9,Female,White,10 hours,2,2,4,1,3,3,4,2,5,2,4,1,4,1,2,1,3,1,2,1,1,2,1,5,2,3,3,4,3,1,2,6,4,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/6 7:44,2021/4/6 7:51,IP Address,*******,100,385,TRUE,2021/4/6 7:51,R_1Q0HMgvQedOXiUH,*******,*******,*******,*******,*******,*******,anonymous,EN,kayley,,15,9th,Female,White,10-5月,4,4,4,2,3,3,4,2,4,3,5,3,2,3,2,1,4,3,4,3,4,6,2,2,1,2,5,1,3,3,1,1,4,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/6 8:05,2021/4/6 10:49,IP Address,*******,100,9840,TRUE,2021/4/6 10:49,R_2Pd6ALm8k6D8XTy,*******,*******,*******,*******,*******,*******,anonymous,EN,Wesley Acton,,11,6th,Male,White,5 hours,3,3,3,2,2,4,3,3,3,2,3,4,2,2,2,4,4,2,4,6,3,3,3,6,3,4,4,4,5,5,4,6,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/6 11:13,2021/4/6 11:18,IP Address,*******,100,302,TRUE,2021/4/6 11:18,R_3qsxpQPaSgDsWi0,*******,*******,*******,*******,*******,*******,anonymous,EN,Ikshula Prasad,,14,8,Female,Other,0,4,3,4,2,3,3,4,4,5,3,5,1,5,2,3,1,4,1,1,3,1,2,3,1,3,3,3,3,2,1,1,6,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/6 11:18,2021/4/6 11:38,IP Address,*******,100,1203,TRUE,2021/4/6 11:38,R_1CxqbTnqOV35aN7,*******,*******,*******,*******,*******,*******,anonymous,EN,Melina Menghi,,16,10,Female,"White,Other",6,2,4,2,3,2,3,2,2,3,2,4,3,5,3,3,2,2,1,5,6,4,1,6,4,4,3,5,4,3,3,3,6,5,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/6 10:58,2021/4/6 12:21,IP Address,*******,100,4992,TRUE,2021/4/6 12:21,R_2Bhb0WQWdgpaXlk,*******,*******,*******,*******,*******,*******,anonymous,EN,John Tan-Aristy,,14,8,Male,"Asian,Other",10,4,4,3,2,4,3,4,3,4,3,4,2,2,3,1,1,1,1,2,3,2,1,4,2,1,4,3,2,4,3,2,1,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/6 12:14,2021/4/6 12:23,IP Address,*******,100,558,TRUE,2021/4/6 12:23,R_sTPacsH0sT2x90l,*******,*******,*******,*******,*******,*******,anonymous,EN,Zachary Dubuc,,16,11,Male,White,30,3,1,3,1,4,1,4,3,2,4,5,1,5,1,3,1,4,1,4,5,5,5,5,6,5,5,5,5,3,5,5,6,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/6 17:50,2021/4/6 18:01,IP Address,*******,100,641,TRUE,2021/4/6 18:01,R_32Vlf3KtqLbYvE6,*******,*******,*******,*******,*******,*******,anonymous,EN,Samuel Davis,,14,8,Male,White,20,5,3,5,1,1,1,1,1,1,1,3,3,3,3,3,3,3,3,6,4,4,6,6,6,6,4,6,6,2,6,6,6,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/6 17:46,2021/4/6 18:02,IP Address,*******,100,943,TRUE,2021/4/6 18:02,R_1GTSQMjuWsYjB2A,*******,*******,*******,*******,*******,*******,anonymous,EN,Mia Brassell,,11,6,Female,White,15,3,3,3,2,1,3,3,2,3,3,3,3,3,2,3,2,3,2,3,5,3,1,3,6,5,2,5,5,1,6,4,6,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/7 9:34,2021/4/7 9:52,IP Address,*******,100,1073,TRUE,2021/4/7 9:52,R_1ZwIdxW3RNrhTQR,*******,*******,*******,*******,*******,*******,anonymous,EN,Dayllen Freire-Depina,,13,9,Male,Black or African American,3hr the most ,3,4,4,2,4,3,1,3,4,4,4,3,3,2,3,1,2,2,6,3,5,5,4,5,5,4,3,5,4,6,4,6,4,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/7 13:11,2021/4/7 13:21,IP Address,*******,100,584,TRUE,2021/4/7 13:21,R_2YLnz3a8DDARwOn,*******,*******,*******,*******,*******,*******,anonymous,EN,Oliver Song,,11,5,Male,"Asian,White",zero,4,2,4,1,2,2,4,4,2,4,3,1,2,2,2,2,2,3,3,2,2,4,5,3,5,4,5,4,4,5,3,6,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/7 15:58,2021/4/7 16:11,IP Address,*******,100,782,TRUE,2021/4/7 16:11,R_qO76VlEAw5Uj9Fn,*******,*******,*******,*******,*******,*******,anonymous,EN,Elsie Miller,,11,5,Female,White,8 hours,4,3,4,1,5,2,4,4,2,4,3,3,3,3,3,3,3,3,4,4,4,3,3,1,4,4,4,5,2,5,5,3,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/8 0:30,2021/4/8 0:32,IP Address,*******,100,133,TRUE,2021/4/8 0:32,R_2dHd4tiXyCTM0ar,*******,*******,*******,*******,*******,*******,anonymous,EN,Claire Wang,,16,10,Female,Asian,0,4,5,3,2,2,4,4,4,4,4,3,4,4,3,3,2,2,3,4,5,5,5,2,2,2,3,3,2,5,5,4,6,5,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/8 10:22,2021/4/8 10:29,IP Address,*******,100,403,TRUE,2021/4/8 10:29,R_PZmEtnG677n2Vu9,*******,*******,*******,*******,*******,*******,anonymous,EN,Cameron Jones,,12,6,Male,White,6,3,2,2,1,4,1,2,2,2,3,3,2,2,3,2,1,2,2,3,4,6,3,4,6,3,4,5,4,5,5,5,3,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/8 12:17,2021/4/8 12:26,IP Address,*******,100,532,TRUE,2021/4/8 12:26,R_4Ym1gXtXfrSVrzj,*******,*******,*******,*******,*******,*******,anonymous,EN,Andy Pham,,13,7,Male,Asian,14,4,3,5,2,4,4,3,3,3,4,4,1,4,1,5,1,1,1,2,1,1,1,1,3,1,3,3,2,1,3,1,1,4,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/8 12:40,2021/4/8 13:29,IP Address,*******,100,2970,TRUE,2021/4/8 13:29,R_4MykolEtxjYYDvj,*******,*******,*******,*******,*******,*******,anonymous,EN,James Tan-Aristy,,11,5th,Male,"Asian,Other",10,3,3,4,2,3,4,4,3,5,3,4,4,4,3,2,1,3,2,2,5,3,6,3,1,2,5,3,2,1,1,6,4,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/8 14:00,2021/4/8 14:20,IP Address,*******,100,1209,TRUE,2021/4/8 14:20,R_dmzF9hoZ0yuQZ45,*******,*******,*******,*******,*******,*******,anonymous,EN,Theodore Salvin,,12,6,Male,White,5-2月,4,3,4,2,2,3,2,3,4,3,4,4,3,4,2,3,3,3,5,4,3,6,4,4,4,5,4,5,5,4,5,6,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/8 16:19,2021/4/8 16:28,IP Address,*******,100,542,TRUE,2021/4/8 16:28,R_25CjybdgcCGqf8R,*******,*******,*******,*******,*******,*******,anonymous,EN,Erik Miller,,13,7,Male,White,12,3,5,3,1,5,5,3,3,4,4,5,2,5,2,3,3,4,3,5,2,1,6,2,1,5,6,5,6,6,1,6,6,4,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/8 16:51,2021/4/8 17:00,IP Address,*******,100,580,TRUE,2021/4/8 17:00,R_ymSQ7yOAwKinUwF,*******,*******,*******,*******,*******,*******,anonymous,EN,Sanviti Amarnath ,,12,6,Female,Asian,0,3,2,4,2,3,2,3,3,3,3,5,1,4,3,4,1,4,1,4,2,3,4,5,5,5,5,4,4,4,5,4,5,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 5:29,2021/4/9 5:36,IP Address,*******,100,424,TRUE,2021/4/9 5:36,R_2pQrihC86KQFEI1,*******,*******,*******,*******,*******,*******,anonymous,EN,Calvin Long,,11,5th grade,Male,Black or African American,20,3,2,4,1,4,2,4,3,3,4,4,3,4,3,3,1,3,1,3,4,5,4,3,2,4,6,3,4,2,2,3,4,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 12:13,2021/4/9 12:18,IP Address,*******,100,326,TRUE,2021/4/9 12:18,R_2akr2vJERCqCOfa,*******,*******,*******,*******,*******,*******,anonymous,EN,Chad Velez,,13,7th grade,Male,"White,Other",0,3,2,4,2,5,3,4,4,4,4,1,4,5,3,2,1,5,1,2,4,4,4,5,2,5,4,5,6,5,2,5,6,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 12:35,2021/4/9 12:50,IP Address,*******,100,867,TRUE,2021/4/9 12:50,R_1jjNUmZwPBrlskC,*******,*******,*******,*******,*******,*******,anonymous,EN,Lorenzo Blackston ,,13,7 th grade,Male,Black or African American,30 hours,4,3,4,1,3,3,4,4,1,4,5,2,2,2,4,2,4,2,3,5,4,3,4,6,5,3,3,5,4,3,4,5,4,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 13:29,2021/4/9 13:37,IP Address,*******,100,433,TRUE,2021/4/9 13:37,R_2B4L4WO07Xl6Eki,*******,*******,*******,*******,*******,*******,anonymous,EN,Mia Andreoli,,11,5,Female,"Asian,White",On weekdays 3-4 hours.,4,1,4,2,4,4,5,5,3,4,5,5,5,1,5,1,1,1,6,5,6,6,6,6,5,6,5,6,6,5,6,6,5,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 13:34,2021/4/9 13:40,IP Address,*******,100,395,TRUE,2021/4/9 13:40,R_3EFJeQdkoMrQueu,*******,*******,*******,*******,*******,*******,anonymous,EN,Charles Johnson,,12,6,Male,White,15,4,4,3,2,5,2,3,4,1,3,3,2,4,1,5,1,4,1,6,5,3,6,5,3,6,4,4,6,2,6,2,1,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 13:31,2021/4/9 13:42,IP Address,*******,100,655,TRUE,2021/4/9 13:42,R_2ykd5JVvtqerEWE,*******,*******,*******,*******,*******,*******,anonymous,EN,Nava Galperin,,12,5,Female,White,about 10 hours (a lot on the weekends),3,1,3,1,3,1,3,2,1,3,1,3,2,3,2,2,3,3,6,5,6,5,5,5,6,4,5,5,6,6,5,4,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 13:29,2021/4/9 13:50,IP Address,*******,100,1257,TRUE,2021/4/9 13:50,R_1QmwQYaNBaSdAr4,*******,*******,*******,*******,*******,*******,anonymous,EN,John-Michael Waldron ,,14,8,Male,"White,Other",16,3,1,2,1,1,1,4,3,2,3,5,1,2,1,5,3,2,3,2,5,2,1,5,1,1,2,2,3,3,2,5,1,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 14:06,2021/4/9 14:12,IP Address,*******,100,375,TRUE,2021/4/9 14:12,R_1OHtuogCQ4Y220R,*******,*******,*******,*******,*******,*******,anonymous,EN,"Kuo, Logan",,13,7,Male,Asian,5,4,2,4,2,5,1,4,4,2,4,3,4,4,2,2,1,2,3,5,5,4,5,5,6,5,3,4,4,2,5,3,5,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 14:54,2021/4/9 14:59,IP Address,*******,100,299,TRUE,2021/4/9 14:59,R_pKGX1rxAUVand1T,*******,*******,*******,*******,*******,*******,anonymous,EN,Andreas Bai,,11,6th,Male,Asian,2-1月,3,3,4,2,3,3,4,3,2,3,3,3,2,2,3,2,3,2,5,3,4,3,3,6,4,3,3,4,3,4,4,6,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 16:04,2021/4/9 16:15,IP Address,*******,100,672,TRUE,2021/4/9 16:15,R_2dLz7WCHkcpGPpW,*******,*******,*******,*******,*******,*******,anonymous,EN,Lachlan ,,13,8th,Male,White,4-5 hrs,2,3,2,1,4,2,2,2,3,3,3,3,4,3,2,2,3,2,6,3,3,5,5,1,3,4,5,5,4,3,3,5,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 18:53,2021/4/9 19:03,IP Address,*******,100,639,TRUE,2021/4/9 19:03,R_22F7SB3kk3u7JdG,*******,*******,*******,*******,*******,*******,anonymous,EN,EMILIANO BLACK,,11,6th,Male,Other,23  a week,4,3,4,1,3,4,4,3,1,4,5,4,4,1,1,1,1,1,6,4,6,1,1,6,6,6,3,1,5,6,6,3,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/9 19:30,2021/4/9 19:34,IP Address,*******,100,240,TRUE,2021/4/9 19:34,R_3jfE850nIAQi1Vk,*******,*******,*******,*******,*******,*******,anonymous,EN,Jonathan Andreoli,,13,7th,Male,Asian,5,4,4,4,3,4,2,3,4,3,4,4,3,3,2,3,3,3,2,5,5,5,4,5,4,5,4,5,4,4,5,5,6,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/10 7:14,2021/4/10 7:23,IP Address,*******,100,524,TRUE,2021/4/10 7:23,R_Ti9ncyW3n9jj077,*******,*******,*******,*******,*******,*******,anonymous,EN,Ethan Yu,,11,5,Male,Asian,5 hours a week.,4,3,5,2,3,3,2,2,3,2,5,5,5,1,1,1,5,1,6,4,5,5,3,6,5,4,5,6,3,6,6,6,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/10 11:53,2021/4/10 12:04,IP Address,*******,100,636,TRUE,2021/4/10 12:04,R_3rS1vjt4IWEASip,*******,*******,*******,*******,*******,*******,anonymous,EN,Chase Roberts,,13,7,Male,White,25,4,4,4,2,4,2,4,4,2,4,4,2,3,2,4,1,5,1,2,3,5,4,2,6,4,3,6,6,2,4,5,6,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/10 13:17,2021/4/10 13:22,IP Address,*******,100,289,TRUE,2021/4/10 13:22,R_8k3FrUk7hLNSVq1,*******,*******,*******,*******,*******,*******,anonymous,EN,Finley Long,,13,7th Grade,Male,Black or African American,14,3,2,5,2,3,2,3,3,1,3,3,2,1,2,2,3,2,2,2,2,1,1,1,3,2,1,1,1,2,1,3,1,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/10 18:54,2021/4/10 19:03,IP Address,*******,100,493,TRUE,2021/4/10 19:03,R_3GxMeGKe9Sgf4u0,*******,*******,*******,*******,*******,*******,anonymous,EN,Leah Cooper,,11,5th,Female,White,0,4,2,2,2,4,3,4,3,2,4,3,3,4,4,4,2,4,3,5,2,5,5,3,6,3,4,2,5,1,1,2,4,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/11 7:11,2021/4/11 7:19,IP Address,*******,100,444,TRUE,2021/4/11 7:19,R_1E69lTlI6elwIVg,*******,*******,*******,*******,*******,*******,anonymous,EN,Claire Foster,,12,7th,Female,White,?,5,3,4,1,4,3,3,3,3,3,5,3,3,2,3,2,3,1,3,2,5,5,3,6,5,6,5,6,5,4,5,6,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/11 12:18,2021/4/11 12:23,IP Address,*******,100,243,TRUE,2021/4/11 12:23,R_3qx098fmNMTe8yz,*******,*******,*******,*******,*******,*******,anonymous,EN,Matthew Lubarsky,,13,8,Male,White,2 hours,3,5,2,2,2,4,2,3,3,3,4,2,4,2,2,2,4,2,3,5,5,2,2,3,3,5,3,5,3,6,5,5,1,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/12 7:24,2021/4/12 7:47,IP Address,*******,100,1356,TRUE,2021/4/12 7:47,R_ewKh2VG4sBPZLFv,*******,*******,*******,*******,*******,*******,anonymous,EN,Olivia Zawada,,12,6,Female,White,3.5,2,3,2,2,3,3,4,4,4,2,3,3,2,1,1,3,4,2,3,3,6,6,3,6,5,6,3,5,1,3,4,4,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/12 10:21,2021/4/12 10:36,IP Address,*******,100,889,TRUE,2021/4/12 10:36,R_Wfd8sjG4s3otwMp,*******,*******,*******,*******,*******,*******,anonymous,EN,Francisco X. Zambrano,,13,Grade 7,Male,Other,At least 30 hours,4,4,3,2,3,4,3,3,4,3,2,3,3,3,4,4,3,4,3,3,3,4,3,4,4,2,4,4,2,3,4,4,4,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/12 13:02,2021/4/12 13:12,IP Address,*******,100,582,TRUE,2021/4/12 13:12,R_3lRMge1VROxBEmO,*******,*******,*******,*******,*******,*******,anonymous,EN,de Monchaux Charles,,13,7,Male,White,4,4,3,3,2,4,2,4,3,2,3,4,2,4,1,4,1,3,2,4,5,5,3,5,2,3,3,5,2,6,4,3,5,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/12 14:18,2021/4/12 14:29,IP Address,*******,100,664,TRUE,2021/4/12 14:29,R_ue4Ojd4J8JgsOnn,*******,*******,*******,*******,*******,*******,anonymous,EN,Inara Barker,,15,10,Female,White,2,3,4,4,3,2,3,4,2,3,2,5,1,5,1,5,1,5,1,6,3,2,2,6,3,2,5,3,5,3,4,4,5,3,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/12 15:52,2021/4/12 15:58,IP Address,*******,100,347,TRUE,2021/4/12 15:58,R_XM9t2a6Gjkrs1Tb,*******,*******,*******,*******,*******,*******,anonymous,EN,Davis,,14,8,Male,White,30,5,2,5,1,5,5,1,5,2,5,5,2,2,1,5,2,5,1,3,3,1,2,1,1,1,1,4,2,3,1,1,1,5,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/12 18:48,2021/4/12 18:58,IP Address,*******,100,578,TRUE,2021/4/12 18:58,R_bqHyttEBf6wbT5T,*******,*******,*******,*******,*******,*******,anonymous,EN,Maia Shen,,11,6,Female,"Asian,White",1.5,3,1,4,1,4,1,3,3,1,4,5,2,4,1,5,1,4,2,3,2,1,3,4,4,3,4,2,3,1,1,2,4,2,,Unknown
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/13 11:25,2021/4/13 11:31,IP Address,*******,100,339,TRUE,2021/4/13 11:31,R_1qaCldKdeW9kwSo,*******,*******,*******,*******,*******,*******,anonymous,EN,Yasha,Vasilyev,12,6,Decline to answer,Decline to answer,6-3月,3,3,4,2,4,3,4,2,2,3,3,4,2,3,2,2,2,3,4,5,5,4,3,3,4,4,4,5,4,4,3,5,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/13 12:29,2021/4/13 12:41,IP Address,*******,100,753,TRUE,2021/4/13 12:41,R_PMc687s8sdKRgiZ,*******,*******,*******,*******,*******,*******,anonymous,EN,Jack,Blakemore,12,6,Male,White,2,3,3,3,1,3,1,3,3,1,3,3,3,2,1,4,1,4,1,3,6,3,6,3,1,6,5,6,4,4,1,4,1,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/13 12:45,2021/4/13 12:53,IP Address,*******,100,451,TRUE,2021/4/13 12:53,R_1owpHuRSlJOsTua,*******,*******,*******,*******,*******,*******,anonymous,EN,Hano,Roughley,12,6,Male,White,12,3,3,4,2,2,3,2,2,3,2,4,2,3,2,4,2,4,2,4,5,3,3,4,5,6,5,5,5,2,6,4,4,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/13 12:52,2021/4/13 12:59,IP Address,*******,100,460,TRUE,2021/4/13 12:59,R_3r22Kw8TC9y8pCB,*******,*******,*******,*******,*******,*******,anonymous,EN,luc,clemenceau,13,7,Male,White,6-5月,3,3,4,2,5,3,4,4,1,4,3,4,4,2,4,2,4,1,3,3,2,5,3,6,1,3,4,4,3,4,3,6,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/13 13:01,2021/4/13 13:07,IP Address,*******,100,401,TRUE,2021/4/13 13:07,R_2wbpIwo7ViQ77EF,*******,*******,*******,*******,*******,*******,anonymous,EN,Ingo,Roughley,11,5th,Male,White,12,3,3,2,2,4,2,3,2,3,3,4,1,3,1,4,2,5,1,5,6,6,6,6,5,6,6,6,5,5,5,6,6,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/13 17:07,2021/4/13 17:17,IP Address,*******,100,599,TRUE,2021/4/13 17:17,R_3OiE1IqxEo0rEVB,*******,*******,*******,*******,*******,*******,anonymous,EN,Jasper,Blachly-Nelson,12,6,Other,White,30,3,2,4,2,3,2,3,2,2,4,3,2,4,4,2,4,2,3,5,6,4,5,4,4,5,5,5,4,3,6,5,3,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/13 17:25,2021/4/13 17:34,IP Address,*******,100,515,TRUE,2021/4/13 17:34,R_2EgH8EcYI3OxY7a,*******,*******,*******,*******,*******,*******,anonymous,EN,Mattia,Farmer,11,5,Female,White,1 hour,2,2,4,1,4,2,4,3,2,3,4,2,4,3,4,1,4,1,3,4,3,2,2,2,1,1,3,1,4,3,2,2,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/13 17:38,2021/4/13 17:44,IP Address,*******,100,360,TRUE,2021/4/13 17:44,R_cGDXWsmY0I67Mxb,*******,*******,*******,*******,*******,*******,anonymous,EN,Catherine,Johnson,12,6,Female,White,3,4,4,4,2,3,3,3,2,4,2,3,2,4,2,3,2,3,2,3,2,1,3,5,3,5,3,5,6,3,1,5,3,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/14 8:07,2021/4/14 8:16,IP Address,*******,100,562,TRUE,2021/4/14 8:16,R_w5eakUMMXozIbbb,*******,*******,*******,*******,*******,*******,anonymous,EN,Saras,Raghavan,12,6,Female,"White,Other",2-1月,3,4,5,2,3,4,4,4,5,3,5,1,4,3,3,1,5,1,5,2,5,4,6,1,4,4,3,5,2,5,4,6,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/14 8:15,2021/4/14 8:29,IP Address,*******,100,801,TRUE,2021/4/14 8:29,R_wNSJy4bo3aswCYh,*******,*******,*******,*******,*******,*******,anonymous,EN,Quintyn,Scott,12,6th,Male,Black or African American,20-40,5,5,5,1,5,5,3,3,5,5,4,4,3,5,3,3,3,3,3,3,3,6,1,3,3,3,3,6,1,3,1,1,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/14 11:50,2021/4/14 11:58,IP Address,*******,100,468,TRUE,2021/4/14 11:58,R_3sv7BXA3SRckz12,*******,*******,*******,*******,*******,*******,anonymous,EN,Sylvia,Crittenden,11,5,Female,White,8,4,3,4,2,4,2,4,3,3,4,3,4,2,3,2,3,2,3,3,2,3,2,3,2,2,2,3,2,3,3,2,2,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/14 13:14,2021/4/14 13:23,IP Address,*******,100,554,TRUE,2021/4/14 13:23,R_1hTidiJcnnlCVqA,*******,*******,*******,*******,*******,*******,anonymous,EN,Elizabeth,Alderfer,12,7,Female,White,40,3,4,5,2,2,2,3,2,3,3,4,1,4,1,2,1,2,1,3,5,3,4,4,2,2,3,3,3,3,2,2,2,4,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/14 15:45,2021/4/14 16:00,IP Address,*******,100,872,TRUE,2021/4/14 16:00,R_3fZ97lb2KduuQL8,*******,*******,*******,*******,*******,*******,anonymous,EN,Mateo,Sierra,11,5th,Male,White,2 hours,3,4,4,1,5,3,1,4,4,5,5,1,2,1,5,1,5,1,6,3,6,6,3,5,5,6,2,6,3,5,6,2,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/14 20:38,2021/4/14 20:48,IP Address,*******,100,549,TRUE,2021/4/14 20:48,R_27yfEcFPzw3NHpd,*******,*******,*******,*******,*******,*******,anonymous,EN,Aniceta,Bochnak,13,8th,Female,"Asian,White",8 hours,5,3,5,1,5,2,5,5,3,4,5,4,5,2,4,1,4,1,5,3,2,3,4,6,2,4,4,5,2,2,3,5,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/15 9:58,2021/4/15 10:07,IP Address,*******,100,526,TRUE,2021/4/15 10:07,R_1jkSemM3dX51JPq,*******,*******,*******,*******,*******,*******,anonymous,EN,David,Furtek,14,8th,Male,White,35,4,4,4,3,2,3,2,4,3,3,3,4,2,5,4,2,3,4,6,2,3,6,6,5,4,5,4,2,1,3,4,5,4,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/15 13:08,2021/4/15 13:44,IP Address,*******,100,2161,TRUE,2021/4/15 13:44,R_AvyWL4Ap985s9BD,*******,*******,*******,*******,*******,*******,anonymous,EN,"Willard ""Hayes""",Thompson,11,5,Male,White,14,3,1,4,1,3,1,3,3,1,3,4,1,4,1,4,1,4,1,1,3,3,1,1,1,2,2,1,1,3,1,1,1,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/15 13:58,2021/4/15 14:04,IP Address,*******,100,344,TRUE,2021/4/15 14:04,R_25KoOFNDFMdT1nU,*******,*******,*******,*******,*******,*******,anonymous,EN,Jack,Barnes,11,6,Male,White,20,2,3,1,1,3,2,2,3,3,2,4,3,3,3,3,2,3,2,3,4,2,3,1,1,1,2,2,2,2,2,2,2,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/15 15:11,2021/4/15 15:16,IP Address,*******,100,297,TRUE,2021/4/15 15:16,R_1NCELhbmea6UviN,*******,*******,*******,*******,*******,*******,anonymous,EN,Liam,Maio,12,7,Male,White,12,5,4,2,1,5,1,5,3,3,5,3,4,5,4,4,1,2,3,3,1,4,1,1,1,3,4,5,3,5,4,3,6,5,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/16 6:06,2021/4/16 6:17,IP Address,*******,100,606,TRUE,2021/4/16 6:17,R_0lIJI6RFJTIwPND,*******,*******,*******,*******,*******,*******,anonymous,EN,Mateus,Verdi,12,6,Male,"White,Other",25,4,4,4,2,4,3,4,4,3,4,4,2,1,2,4,2,4,1,5,4,5,4,4,5,5,2,4,5,5,3,5,5,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/16 14:50,2021/4/16 15:31,IP Address,*******,100,2465,TRUE,2021/4/16 15:31,R_sYDtY0vJLwoHLSV,*******,*******,*******,*******,*******,*******,anonymous,EN,Oliver,Copps,16,10th,Male,White,More than 12,1,4,3,3,1,4,2,1,2,1,3,3,4,3,3,2,4,2,3,6,5,2,2,4,5,3,6,5,4,5,5,6,5,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/16 16:04,2021/4/16 16:29,IP Address,*******,100,1516,TRUE,2021/4/16 16:29,R_pa3cTQdCOCcq2YN,*******,*******,*******,*******,*******,*******,anonymous,EN,Juliette,Kopala,13,7,Female,White,25,4,5,4,4,4,5,3,2,5,3,4,1,5,1,5,1,5,1,2,6,2,5,3,4,3,5,3,3,3,2,3,5,5,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/16 16:31,2021/4/16 16:41,IP Address,*******,100,622,TRUE,2021/4/16 16:41,R_6ngfGo2WDAs36CZ,*******,*******,*******,*******,*******,*******,anonymous,EN,Scarlett,Kopala,15,9,Female,White,20,4,3,4,1,3,2,3,2,3,3,5,2,4,3,3,1,5,2,5,4,4,2,5,1,4,4,4,5,5,3,3,4,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/16 19:47,2021/4/16 20:08,IP Address,*******,100,1245,TRUE,2021/4/16 20:08,R_ZmgIGFfLltKqjwR,*******,*******,*******,*******,*******,*******,anonymous,EN,Adam ,Bonanno,14,8,Male,White,10,4,2,4,1,3,2,4,4,2,4,3,3,5,1,3,1,5,1,3,2,2,3,2,4,3,3,4,3,3,3,4,6,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/17 8:17,2021/4/17 8:23,IP Address,*******,100,349,TRUE,2021/4/17 8:23,R_210bWyJAh7cvQ9d,*******,*******,*******,*******,*******,*******,anonymous,EN,Jonah ,Nicholas,13,7th grade,Male,Other,16 hours,4,4,5,3,4,3,4,3,3,4,4,4,4,4,3,2,4,2,3,1,2,3,3,2,3,2,2,3,2,3,2,3,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/17 9:19,2021/4/17 9:30,IP Address,*******,100,666,TRUE,2021/4/17 9:30,R_1DJ3zHz7qzqPOoJ,*******,*******,*******,*******,*******,*******,anonymous,EN,Charlie,Gomes Casseres,12,6,Male,White,4,4,2,4,1,3,2,4,3,2,4,4,2,4,1,4,2,4,2,4,4,5,2,2,6,4,4,4,5,3,6,4,5,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/17 12:08,2021/4/17 12:17,IP Address,*******,100,547,TRUE,2021/4/17 12:17,R_2pK3BIz4jOBzv3Q,*******,*******,*******,*******,*******,*******,anonymous,EN,Jaden,Brophy,12,6,Male,Black or African American,18-20,3,3,4,1,4,4,4,4,2,3,5,1,5,1,5,1,5,1,2,2,1,1,1,3,1,3,2,1,1,4,1,3,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/17 14:42,2021/4/17 14:45,IP Address,*******,100,187,TRUE,2021/4/17 14:45,R_12tdTZVLrehmIK3,*******,*******,*******,*******,*******,*******,anonymous,EN,Anna,Du,15,9th,Female,Asian,1,5,3,5,1,4,5,4,5,5,3,5,2,5,3,4,1,4,3,3,2,2,2,4,1,1,1,1,2,1,1,1,2,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/18 7:58,2021/4/18 8:03,IP Address,*******,100,296,TRUE,2021/4/18 8:03,R_3PZua3mf91yWJia,*******,*******,*******,*******,*******,*******,anonymous,EN,Kathy,Lin,12,6,Female,Asian,2-1月,5,3,5,1,5,1,3,1,3,5,4,1,4,1,3,1,3,1,6,6,6,6,6,6,6,5,5,5,6,6,6,6,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/19 8:23,2021/4/19 8:31,IP Address,*******,100,447,TRUE,2021/4/19 8:31,R_24bBZT1m92GJrr5,*******,*******,*******,*******,*******,*******,anonymous,EN,Ian,Johnson,11,6,Male,White,25,3,3,3,1,4,3,4,3,2,4,4,3,4,4,3,3,2,3,4,1,2,3,4,1,1,1,3,1,1,1,1,4,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/20 10:14,2021/4/20 10:20,IP Address,*******,100,355,TRUE,2021/4/20 10:20,R_30xblYqS80Le2AA,*******,*******,*******,*******,*******,*******,anonymous,EN,Guangchun,Fu,17,11,Male,Asian,abt 50 hours during quarantine,4,5,3,2,5,5,4,2,2,2,3,4,4,4,3,4,2,4,5,4,3,5,4,2,4,2,5,2,5,3,3,2,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/20 13:49,2021/4/20 13:55,IP Address,*******,100,363,TRUE,2021/4/20 13:55,R_3Pvpo0WZzPjbZDd,*******,*******,*******,*******,*******,*******,anonymous,EN,Bryce,Hilliard,16,10,Male,White,21,3,3,3,1,5,4,4,4,3,5,3,5,3,5,1,1,1,3,6,1,1,6,6,1,1,1,1,1,1,6,1,1,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/20 13:46,2021/4/20 14:02,IP Address,*******,100,964,TRUE,2021/4/20 14:02,R_3qs3Nyv65p3jXq9,*******,*******,*******,*******,*******,*******,anonymous,EN,Katy,Jiang,15,10,Female,Asian,1,4,2,4,2,2,3,4,4,4,4,4,1,4,2,4,2,4,3,2,2,2,2,2,4,3,2,2,3,6,2,2,1,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/20 14:00,2021/4/20 14:13,IP Address,*******,100,815,TRUE,2021/4/20 14:13,R_1FQvhO2bPxkmPap,*******,*******,*******,*******,*******,*******,anonymous,EN,Cooper,Katz,12,6th,Male,White,100,1,5,3,5,3,5,3,2,5,3,1,5,1,3,4,3,3,3,2,5,3,5,2,3,2,5,5,6,1,3,1,1,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/20 14:55,2021/4/20 15:00,IP Address,*******,100,323,TRUE,2021/4/20 15:00,R_1eRhun0HCbST3Yt,*******,*******,*******,*******,*******,*******,anonymous,EN,Joyce,Chan,12,7th,Female,Asian,7,3,3,3,3,4,3,1,4,5,3,2,4,5,4,3,1,1,5,2,1,1,1,5,6,6,6,6,6,6,6,6,6,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/20 15:45,2021/4/20 15:50,IP Address,*******,100,342,TRUE,2021/4/20 15:50,R_2S2mbv40MTRzRDx,*******,*******,*******,*******,*******,*******,anonymous,EN,Tina,Nguyen ,15,10,Female,"Asian,Black or African American",10,4,5,4,1,1,2,3,3,5,2,5,3,5,2,5,1,5,2,3,3,1,3,6,4,4,1,2,3,1,1,4,1,5,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/20 19:58,2021/4/20 20:06,IP Address,*******,100,518,TRUE,2021/4/20 20:06,R_2wu8lmEggR70uz6,*******,*******,*******,*******,*******,*******,anonymous,EN,Benjamin,Jacobson,13,8th,Male,White,5,2,2,4,1,3,2,4,4,2,4,4,3,3,4,2,5,4,1,2,2,4,4,5,1,5,2,5,4,2,4,3,4,5,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/21 9:47,2021/4/21 10:00,IP Address,*******,100,804,TRUE,2021/4/21 10:00,R_1FLmowsx6mynx1Y,*******,*******,*******,*******,*******,*******,anonymous,EN,Robby,Mohler ,12,6,Male,White,1,4,3,4,2,4,3,4,4,2,4,3,3,2,3,2,3,2,3,4,3,5,3,5,5,3,4,4,4,2,4,4,3,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/21 8:16,2021/4/21 10:57,IP Address,*******,100,9704,TRUE,2021/4/21 10:57,R_22sL2WoZa41RGMI,*******,*******,*******,*******,*******,*******,anonymous,EN,Alexander,Picker,12,6,Male,White,50,2,4,3,2,2,3,3,2,2,3,4,3,3,3,4,2,3,3,3,3,5,2,2,5,3,2,2,4,2,2,2,3,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/21 14:23,2021/4/21 15:38,IP Address,*******,100,4514,TRUE,2021/4/21 15:38,R_33van4NEV59I5kk,*******,*******,*******,*******,*******,*******,anonymous,EN,Lindsay,Kwon,11,6th grade,Female,Asian,10,2,3,4,1,3,3,3,3,2,4,3,3,2,4,3,3,2,3,6,5,4,5,4,5,6,6,6,6,5,4,5,5,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/21 17:02,2021/4/21 17:10,IP Address,*******,100,482,TRUE,2021/4/21 17:10,R_zfoEOW1aTQYciLD,*******,*******,*******,*******,*******,*******,anonymous,EN,Devin,Walsh,15,9,Female,White,3,3,4,4,1,4,3,4,3,2,3,2,4,4,2,1,1,2,1,5,2,4,1,4,4,2,3,3,2,1,2,2,4,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/22 7:59,2021/4/22 8:06,IP Address,*******,100,385,TRUE,2021/4/22 8:06,R_2P4KponDjcu2BJx,*******,*******,*******,*******,*******,*******,anonymous,EN,Alayna,Dana,13,8,Female,American Indian or Alaska Native,9,2,3,4,1,3,2,3,2,3,3,2,3,4,3,2,2,2,2,4,6,4,3,5,3,5,3,3,4,5,2,5,4,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/22 8:13,2021/4/22 8:28,IP Address,*******,100,875,TRUE,2021/4/22 8:28,R_1jlB7buq95qT1CN,*******,*******,*******,*******,*******,*******,anonymous,EN,Alexandre,Hurel ,11,6,Male,White,30,3,3,3,1,4,2,3,3,2,3,3,3,4,2,4,2,4,2,3,4,4,5,3,5,3,3,2,3,2,4,2,5,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/22 10:44,2021/4/22 11:00,IP Address,*******,100,959,TRUE,2021/4/22 11:00,R_3QEJgJOeYyG7A0E,*******,*******,*******,*******,*******,*******,anonymous,EN,Edgar,Nava,14,9 grade,Male,Decline to answer,almost a whole Saturday and the whole weekend,3,3,4,1,1,3,3,3,3,3,3,3,3,1,2,2,3,1,6,6,5,5,6,1,6,6,6,5,3,5,6,1,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/22 12:39,2021/4/22 12:52,IP Address,*******,100,818,TRUE,2021/4/22 12:52,R_3j9eCT42pcMDM1F,*******,*******,*******,*******,*******,*******,anonymous,EN,OwenSamuel,Kawecki,13,7th,Male,Native Hawaiian or Other Pacific Islander,18 hours,4,3,4,2,5,2,5,4,2,5,2,4,3,3,3,3,4,2,4,4,5,5,3,4,5,5,5,3,2,5,3,6,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/22 15:10,2021/4/22 15:18,IP Address,*******,100,438,TRUE,2021/4/22 15:18,R_3siZyK9npWgGCLp,*******,*******,*******,*******,*******,*******,anonymous,EN,Gryffin,Marks,12,6,Male,White,15-8月,3,2,3,1,3,1,3,3,1,2,3,1,5,2,5,1,5,1,6,4,3,4,6,5,4,4,3,5,4,2,6,6,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/22 16:39,2021/4/22 16:46,IP Address,*******,100,398,TRUE,2021/4/22 16:46,R_AoqJH3Mi3OD0KfD,*******,*******,*******,*******,*******,*******,anonymous,EN,Michelle ,Do,15,11th,Female,Asian,1-2 hours,3,4,3,3,3,3,3,3,4,3,3,4,5,3,4,1,1,1,4,3,2,4,5,2,3,3,2,2,3,2,4,3,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/22 18:12,2021/4/22 18:20,IP Address,*******,100,517,TRUE,2021/4/22 18:20,R_2whFuoMuYFC0vSg,*******,*******,*******,*******,*******,*******,anonymous,EN,Maya,Antal,11,5,Female,White,14,4,4,2,1,4,2,5,3,4,4,4,2,4,3,5,1,1,1,3,3,4,6,5,2,6,3,6,3,2,1,3,5,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/22 18:27,2021/4/22 18:32,IP Address,*******,100,295,TRUE,2021/4/22 18:32,R_3nU7F6L58rAuZNP,*******,*******,*******,*******,*******,*******,anonymous,EN,Isabella ,Antal,12,6,Female,White,14,4,3,4,2,4,2,4,4,3,4,3,3,4,2,3,2,4,3,3,4,5,6,4,6,6,6,6,6,6,6,6,6,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/23 9:06,2021/4/23 9:10,IP Address,*******,100,290,TRUE,2021/4/23 9:10,R_ulwLl6LyC49rAOd,*******,*******,*******,*******,*******,*******,anonymous,EN,Talia,Cerqueira ,14,9,Female,White,5,3,2,4,1,4,3,2,4,4,1,4,3,3,1,2,1,4,1,6,4,5,5,6,6,4,4,5,6,3,4,4,6,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/23 9:33,2021/4/23 9:41,IP Address,*******,100,475,TRUE,2021/4/23 9:41,R_1EbOpnsHx8HLfEC,*******,*******,*******,*******,*******,*******,anonymous,EN,Juliana,Vitello,14,9th,Female,White,7-5月,4,4,4,1,3,3,3,2,4,2,2,4,2,4,2,3,2,3,2,5,4,6,3,3,6,6,5,4,2,6,3,6,4,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/23 11:37,2021/4/23 11:47,IP Address,*******,100,597,TRUE,2021/4/23 11:47,R_2qszW2VKTn7VaTN,*******,*******,*******,*******,*******,*******,anonymous,EN,Thomas,Blake,14,8th,Male,White,21,3,3,4,2,4,2,3,3,2,4,4,3,2,3,2,2,3,3,4,5,5,2,4,5,4,4,4,5,5,4,5,6,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/23 11:57,2021/4/23 12:12,IP Address,*******,100,895,TRUE,2021/4/23 12:12,R_3fK39kNhsaONHcO,*******,*******,*******,*******,*******,*******,anonymous,EN,Oliver,Lavallee,11,5,Male,White,15,2,1,3,1,3,1,1,2,2,4,5,3,4,2,2,1,2,1,2,3,2,1,1,5,3,2,2,1,1,6,2,1,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/25 9:55,2021/4/25 10:09,IP Address,*******,100,891,TRUE,2021/4/25 10:09,R_3JEmtmOlRlG7uGb,*******,*******,*******,*******,*******,*******,anonymous,EN,Ion,Cook,13,7,Male,White,20-something,4,3,4,2,4,4,4,3,4,3,4,3,5,3,4,1,2,1,3,6,5,3,2,3,5,1,4,3,4,5,2,5,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/25 11:23,2021/4/25 11:36,IP Address,*******,100,789,TRUE,2021/4/25 11:36,R_23V3P3TMnpVD0Bn,*******,*******,*******,*******,*******,*******,anonymous,EN,Q,Cook,12,5th,Male,White,40,3,4,2,3,4,2,4,3,2,3,4,2,4,3,4,1,4,2,3,2,5,3,3,5,3,4,3,3,2,5,3,4,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/26 10:42,2021/4/26 11:01,IP Address,*******,100,1159,TRUE,2021/4/26 11:01,R_8hRQJV61e7u7PZn,*******,*******,*******,*******,*******,*******,anonymous,EN,Karina,Rodriguez,15,10,Female,Other,0,3,4,3,1,2,3,2,3,4,3,5,2,5,1,5,2,5,1,6,6,3,4,3,5,4,5,5,5,5,5,4,6,5,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/26 12:33,2021/4/26 12:52,IP Address,*******,100,1116,TRUE,2021/4/26 12:52,R_RaALt1mI1VyStPj,*******,*******,*******,*******,*******,*******,anonymous,EN,Damon,Foxe,13,8th,Male,White,14,4,3,4,2,4,2,2,2,3,2,4,2,4,1,4,1,4,1,5,2,5,3,5,5,2,4,4,3,2,2,3,4,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/26 9:59,2021/4/26 13:17,IP Address,*******,100,11885,TRUE,2021/4/26 13:17,R_1cS8tD8L6KVBypH,*******,*******,*******,*******,*******,*******,anonymous,EN,Faris,Kassem,12,7th Grade,Male,Other,3-4 hours,4,2,3,1,3,1,3,4,2,4,5,4,4,1,4,2,4,1,5,3,5,3,6,6,3,5,4,3,2,5,4,6,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/26 16:17,2021/4/26 16:22,IP Address,*******,100,272,TRUE,2021/4/26 16:22,R_1GZhzTcsEBg8hYp,*******,*******,*******,*******,*******,*******,anonymous,EN,Brandon,Douglas,15,9,Male,"White,Other",21,4,4,4,2,3,3,3,3,4,3,2,4,3,3,3,4,3,3,5,4,2,2,4,2,4,2,4,4,3,1,4,2,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/26 17:44,2021/4/26 17:51,IP Address,*******,100,403,TRUE,2021/4/26 17:51,R_2WYfz8TDXcVYjHh,*******,*******,*******,*******,*******,*******,anonymous,EN,Bront??,Wohlleben,13,8,Female,White,10,3,4,2,4,2,2,2,2,3,2,4,3,4,3,3,1,4,3,5,2,3,1,3,5,4,3,5,3,3,1,3,5,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/27 5:07,2021/4/27 5:12,IP Address,*******,100,304,TRUE,2021/4/27 5:12,R_2rYi4tE5AUdq6Fs,*******,*******,*******,*******,*******,*******,anonymous,EN,Kaelan,Curran,13,7,Male,"Asian,White",12-10月,3,3,3,2,4,3,3,3,4,4,5,2,2,2,2,3,3,1,6,6,6,6,6,6,6,5,4,6,4,6,6,5,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/27 13:18,2021/4/27 14:20,IP Address,*******,100,3760,TRUE,2021/4/27 14:20,R_2cCvDyAg2L2z9F9,*******,*******,*******,*******,*******,*******,anonymous,EN,Marlon,Beram,11,6,Male,White,25,4,1,4,2,3,2,4,3,2,4,3,2,2,2,2,2,3,2,1,6,5,5,6,6,6,6,4,6,6,6,6,6,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/27 14:45,2021/4/27 14:55,IP Address,*******,100,564,TRUE,2021/4/27 14:55,R_3EGUe3g5FeZjWPE,*******,*******,*******,*******,*******,*******,anonymous,EN,Jason,Russello,12,7,Male,White,35,3,3,4,2,3,2,3,3,2,4,4,4,3,2,3,2,3,2,3,3,3,3,5,3,3,3,5,5,4,4,3,3,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/27 16:31,2021/4/27 16:41,IP Address,*******,100,610,TRUE,2021/4/27 16:41,R_qOA6cTjD2L4JocN,*******,*******,*******,*******,*******,*******,anonymous,EN,Danielle,Russello,14,9,Female,White,45,3,2,3,1,4,2,4,4,2,4,4,4,3,4,2,2,3,3,3,2,3,3,3,5,2,3,3,1,1,3,2,2,5,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/27 16:41,2021/4/27 16:48,IP Address,*******,100,412,TRUE,2021/4/27 16:48,R_3gSJBzg9lVjdkFd,*******,*******,*******,*******,*******,*******,anonymous,EN,Abby ,De Buck,15,10,Female,"Asian,White",4-2月,4,5,3,3,2,4,3,3,5,3,3,3,5,1,1,1,1,1,6,6,4,4,3,5,5,5,5,5,4,3,3,1,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/28 16:04,2021/4/28 16:19,IP Address,*******,100,931,TRUE,2021/4/28 16:19,R_2xz1lnbvEUgzqXt,*******,*******,*******,*******,*******,*******,anonymous,EN,Adrian,Caraballo,11,6,Male,Other,About 11 hours,2,3,1,4,3,3,1,2,2,1,5,2,4,2,3,2,4,1,5,3,3,5,6,4,2,4,2,6,4,4,3,6,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/28 17:06,2021/4/28 17:13,IP Address,*******,100,457,TRUE,2021/4/28 17:13,R_3lLCdtUKcQRBQxs,*******,*******,*******,*******,*******,*******,anonymous,EN,Aarush,Maddi,12,6,Male,Asian,10,5,3,5,3,2,3,2,2,2,2,5,2,4,2,4,2,4,3,4,3,4,4,2,6,2,4,5,3,6,2,4,6,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/28 12:38,2021/4/28 18:38,IP Address,*******,100,21655,TRUE,2021/4/28 18:38,R_2bPkl0wxtfr1yBF,*******,*******,*******,*******,*******,*******,anonymous,EN,Sophia,Romanow,13,7,Female,White,2,3,1,3,1,4,1,4,4,2,4,4,4,3,4,3,3,2,3,5,4,5,6,4,2,3,5,2,4,3,5,4,5,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/28 18:46,2021/4/28 18:50,IP Address,*******,100,257,TRUE,2021/4/28 18:50,R_1Nslk3427nGgPAD,*******,*******,*******,*******,*******,*******,anonymous,EN,Maddie,Song,14,9th,Female,"Asian,White",5,2,4,4,1,4,2,4,3,4,4,4,2,4,1,5,1,4,1,6,5,4,6,6,3,6,5,5,5,3,1,5,5,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/29 7:34,2021/4/29 7:43,IP Address,*******,100,562,TRUE,2021/4/29 7:43,R_21c8NsocB6zrWuq,*******,*******,*******,*******,*******,*******,anonymous,EN,Claire,Weems,12,6,Female,White,3 or less,5,4,4,3,3,4,4,3,5,3,3,4,5,4,3,1,3,1,1,1,1,2,2,1,1,2,1,1,1,2,2,2,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/29 13:37,2021/4/29 13:50,IP Address,*******,100,752,TRUE,2021/4/29 13:50,R_32Jg6DKjs8bTSVh,*******,*******,*******,*******,*******,*******,anonymous,EN,Sophie,Kang,11,5,Female,Asian,18,3,4,2,2,3,2,3,3,3,4,4,3,3,3,4,2,3,2,4,3,2,3,4,3,3,2,2,3,2,2,2,3,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/29 16:26,2021/4/29 20:53,IP Address,*******,100,15994,TRUE,2021/4/29 20:53,R_1ps4iws3w0uIhAy,*******,*******,*******,*******,*******,*******,anonymous,EN,Laila ,Ramirez ,15,9th,Female,Decline to answer,8-7月,4,4,2,3,2,3,2,3,4,2,4,4,4,1,5,1,3,1,2,2,1,6,3,2,2,2,1,3,4,2,2,4,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/4/30 17:14,2021/4/30 17:23,IP Address,*******,100,531,TRUE,2021/4/30 17:23,R_3fOeECc063JQknm,*******,*******,*******,*******,*******,*******,anonymous,EN,Kalle,Nikula-Gill,13,7th,Male,White,15,4,3,4,1,3,2,3,3,3,4,4,1,4,1,3,1,2,1,4,4,5,2,4,5,3,5,3,2,3,3,4,5,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/3 7:59,2021/5/3 9:28,IP Address,*******,100,5350,TRUE,2021/5/3 9:28,R_3Oognkc1sW70oGZ,*******,*******,*******,*******,*******,*******,anonymous,EN,Sadie,Chesloff,15,9,Female,White,3 hours,4,4,4,2,2,3,3,3,3,4,3,4,2,2,3,2,2,2,4,5,4,5,5,5,4,4,3,4,3,2,3,4,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/3 11:38,2021/5/3 11:46,IP Address,*******,100,504,TRUE,2021/5/3 11:46,R_1rDCw4C8PuLreUS,*******,*******,*******,*******,*******,*******,anonymous,EN,Madelin,Singer,16,10,Female,White,3,4,2,4,1,2,2,1,1,4,2,4,2,5,2,4,1,4,2,4,5,2,4,6,5,4,3,2,4,2,1,3,2,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/3 13:22,2021/5/3 13:32,IP Address,*******,100,637,TRUE,2021/5/3 13:32,R_3RxwexGHBZAgmjr,*******,*******,*******,*******,*******,*******,anonymous,EN,Amanda,Offsey,14,8,Female,White,1,4,3,4,2,4,3,4,3,4,4,2,4,3,5,2,4,3,4,3,3,3,5,5,6,6,5,4,4,3,2,3,5,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/3 18:52,2021/5/3 19:06,IP Address,*******,100,827,TRUE,2021/5/3 19:06,R_1IXHmvCzr5qAArL,*******,*******,*******,*******,*******,*******,anonymous,EN,Jessica,Meyer,11,5,Female,White,7,4,3,4,1,2,3,3,3,2,3,4,1,4,2,5,1,5,2,3,6,1,5,3,3,3,4,2,4,3,3,3,2,4,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/4 7:07,2021/5/4 7:42,IP Address,*******,100,2107,TRUE,2021/5/4 7:42,R_31AjkTqAUIiN09q,*******,*******,*******,*******,*******,*******,anonymous,EN,Nishma,Tajnia,14,8th ,Female,Asian,"depends on the day, an hour a day?",1,2,1,1,3,3,4,3,2,3,5,1,3,1,3,1,2,1,3,6,5,4,5,6,5,5,6,3,6,4,4,6,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/4 13:28,2021/5/4 13:35,IP Address,*******,100,421,TRUE,2021/5/4 13:35,R_yvBjUlRAlNJ2LbH,*******,*******,*******,*******,*******,*******,anonymous,EN,Skye,Bowers,12,6,Female,White,2,3,2,3,1,4,2,3,3,1,4,4,1,1,1,4,1,4,1,5,2,6,5,5,5,6,4,6,6,5,5,5,6,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/4 13:57,2021/5/4 14:16,IP Address,*******,100,1156,TRUE,2021/5/4 14:16,R_2EbIiFAHe9PobTm,*******,*******,*******,*******,*******,*******,anonymous,EN,Shannon,Raneri,13,8,Female,White,2-3 a week,5,2,4,1,2,2,3,2,5,3,1,1,4,1,2,1,2,3,6,6,6,6,5,6,6,6,5,4,1,3,6,6,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/4 15:19,2021/5/4 15:30,IP Address,*******,100,628,TRUE,2021/5/4 15:30,R_1n2cGowfYSGzFu7,*******,*******,*******,*******,*******,*******,anonymous,EN,Carver,Heyniger,12,6,Male,White,21,4,3,2,2,3,3,3,2,3,2,4,3,4,3,2,2,2,2,2,4,3,5,3,6,4,5,3,4,3,2,4,6,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/4 15:37,2021/5/4 15:50,IP Address,*******,100,742,TRUE,2021/5/4 15:50,R_2Yy9muWsinH0T1f,*******,*******,*******,*******,*******,*******,anonymous,EN,Audrey,Heyniger,12,6,Female,White,3,4,4,3,2,3,2,4,3,4,3,4,1,4,2,5,1,4,1,3,6,5,6,5,4,6,4,2,4,3,2,4,3,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/4 18:58,2021/5/4 19:06,IP Address,*******,100,518,TRUE,2021/5/4 19:06,R_BsrRCRe0DkB9Zlv,*******,*******,*******,*******,*******,*******,anonymous,EN,Michelle,Gee,12,7,Female,Asian,10,3,3,3,2,3,3,3,3,3,3,4,3,2,2,3,1,2,2,4,3,3,3,3,5,5,4,4,3,4,4,2,5,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/5 8:15,2021/5/5 8:24,IP Address,*******,100,515,TRUE,2021/5/5 8:24,R_1IoQGKspzwazSE0,*******,*******,*******,*******,*******,*******,anonymous,EN,Maya,Perry,15,9,Female,White,4,2,4,3,2,3,4,3,4,4,4,4,3,4,3,3,2,2,3,4,5,2,4,5,5,4,5,5,4,4,4,4,3,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/5 13:09,2021/5/5 13:32,IP Address,*******,100,1393,TRUE,2021/5/5 13:32,R_2X1IV4AR0J2i1dF,*******,*******,*******,*******,*******,*******,anonymous,EN,Lydia,Martin,11,Fifth,Female,White,5-4月,3,3,3,1,4,3,3,3,2,1,4,3,2,2,2,1,3,1,4,5,4,6,5,4,3,5,5,4,2,2,3,6,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/5 18:36,2021/5/6 8:44,IP Address,*******,100,50865,TRUE,2021/5/6 8:44,R_3qNAGJ0h71DKcYl,*******,*******,*******,*******,*******,*******,anonymous,EN,greta,martin,14,8th,Female,White,3,3,4,2,2,3,4,3,2,3,3,3,3,3,3,3,2,3,3,5,3,5,3,4,6,5,5,4,6,3,3,4,4,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/6 12:47,2021/5/6 12:57,IP Address,*******,100,575,TRUE,2021/5/6 12:57,R_1PZEGnpqxdJJAXz,*******,*******,*******,*******,*******,*******,anonymous,EN,Vivi,Han,16,10,Female,Asian,50-80 hours,4,5,2,3,1,4,3,3,2,3,3,4,5,3,2,1,3,2,3,4,1,5,3,4,1,5,5,5,3,4,5,3,4,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/8 7:13,2021/5/8 7:18,IP Address,*******,100,340,TRUE,2021/5/8 7:18,R_T0l1GAjOzxtHhp7,*******,*******,*******,*******,*******,*******,anonymous,EN,Tessa,Chesloff,13,7,Female,White,About 3,4,4,4,1,4,3,4,4,3,4,2,3,3,3,3,2,3,3,3,4,5,5,5,6,5,6,6,6,4,6,6,5,1,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/10 7:42,2021/5/10 7:46,IP Address,*******,100,221,TRUE,2021/5/10 7:46,R_1PRUaADTdzDrgDh,*******,*******,*******,*******,*******,*******,anonymous,EN,Nayeli,Perez,16,10th,Female,Other,2,3,4,5,2,4,3,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,4,4,3,4,3,4,3,4,4,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/13 9:09,2021/5/13 9:19,IP Address,*******,100,638,TRUE,2021/5/13 9:19,R_Wd3mbsu6yYfAzxn,*******,*******,*******,*******,*******,*******,anonymous,EN,Kate,Singer,14,8th,Non-binary,White,1,4,3,4,1,5,3,3,2,3,3,4,3,3,4,2,1,1,3,4,6,5,3,5,2,3,4,5,4,5,4,4,3,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021/5/21 13:56,2021/5/21 14:02,IP Address,*******,100,387,TRUE,2021/5/21 14:02,R_3QVEvAq70JDuL36,*******,*******,*******,*******,*******,*******,anonymous,EN,Caroline,Rapp,13,7th,Female,White,2,3,4,3,2,3,4,3,3,4,3,4,3,2,2,2,2,2,2,2,4,5,3,3,2,2,3,3,2,4,3,3,2,3,,

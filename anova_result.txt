@@ -1,0 +1,36 @@
+Shifting_Congruent_RT_Diff:
+	F-statistic: 0.771
+	p-value: 0.385
+
+Shifting_Incongruent_RT_Diff:
+	F-statistic: 1.021
+	p-value: 0.318
+
+Shifting_Congruent_FA_Diff:
+	F-statistic: 1.168
+	p-value: 0.286
+
+Shifting_Incongruent_FA_Diff:
+	F-statistic: 5.072
+	p-value: 0.029
+
+Memory_Hits_Diff:
+	F-statistic: 0.065
+	p-value: 0.800
+
+Memory_PR_Diff:
+	F-statistic: 4.186
+	p-value: 0.047
+
+Memory_Attempts_Diff:
+	F-statistic: 0.223
+	p-value: 0.639
+
+Memory_FA_Diff:
+	F-statistic: 3.198
+	p-value: 0.081
+
+Memory_Return_Efficiency_Diff:
+	F-statistic: 1.285
+	p-value: 0.263
+

@@ -1,0 +1,10 @@
+Column                         R-squared       Adj. R-squared  F-statistic     Prob (F-statistic) Coefficients   
+Shifting_Congruent_RT_Diff     0.007           -0.015          0.318           0.576           0.008          
+Shifting_Incongruent_RT_Diff   0.021           -0.001          0.94            0.337           0.011          
+Shifting_Congruent_FA_Diff     0.0             -0.023          0.001           0.982           0.0            
+Shifting_Incongruent_FA_Diff   0.0             -0.023          0.001           0.976           -0.0           
+Memory_Hits_Diff               0.003           -0.019          0.147           0.703           0.002          
+Memory_PR_Diff                 0.0             -0.022          0.014           0.905           -0.001         
+Memory_Attempts_Diff           0.003           -0.019          0.154           0.697           0.002          
+Memory_FA_Diff                 0.012           -0.01           0.535           0.468           0.005          
+Memory_Return_Efficiency_Diff  0.018           -0.004          0.815           0.372           -0.011         
