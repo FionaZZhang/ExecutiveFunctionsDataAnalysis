@@ -1,5 +1,7 @@
 # ExecutiveFunctionsDataAnalysis
 A data analysis project investigating the effect of stress on executive functions \
+Linear regression, ANOVA analysis, CNN model \
+
 Authors: \
 Fiona Zhang, The University of Melbourne \
 Lingjie Jiao, The University of Sydney \
